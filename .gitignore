@@ -1,0 +1,24 @@
+# Editors
+.vscode/
+.idea/
+
+.tmp
+
+##JS
+node_modules/
+
+## Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Scrapy stuff:
+.scrapy
+
+# Jupyter Notebook
+.ipynb_checkpoints

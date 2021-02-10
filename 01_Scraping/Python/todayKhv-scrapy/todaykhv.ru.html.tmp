@@ -1,0 +1,3048 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+			<meta property="og:image" content="http://todaykhv.ru/bitrix/templates/todaykhv.ru/images/logo.jpg" />
+	
+<link rel="icon" href="/favicon.ico?p=1" type="image/x-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="title" content="«Хабаровский край сегодня» - новости Хабаровского края">
+<meta name="yandex-verification" content="def4a31fd15bfbd0" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="хабаровский край, новости, политика, экономика и бизнес, общество, происшествия, культура, спорт, в районах края" />
+<meta name="description" content="«Хабаровский край сегодня» ежедневное обновление новостей Хабаровского края, репортажи, истории. Фото и видеоматериалы. Полнотекстовые выпуски газеты, архив номеров" />
+<link href="/bitrix/js/main/core/css/core.min.css?15113075802854" type="text/css" rel="stylesheet" />
+
+<link href="/bitrix/css/main/font-awesome.min.css?151130757823748" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/new.todaykhv.ru/page_1bce88a5e5e3554f24836bf2d22e5017/page_1bce88a5e5e3554f24836bf2d22e5017_v1.css?161153295929704" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/new.todaykhv.ru/template_caab4d1c373e392370a953c383c34b3b/template_caab4d1c373e392370a953c383c34b3b_v1.css?1611532960464228" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1611532786252095"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'36000','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1612932400','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'8819dd63bd17e12b37f48bec9412916c'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/jquery/jquery-1.8.3.min.js?152956258793637"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1611532786252095"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/templates/new.todaykhv.ru/components/bitrix/news.list/news_feed_ajax/script.js','/bitrix/templates/new.todaykhv.ru/js/jquery-2.1.4.min.js','/bitrix/templates/new.todaykhv.ru/bootstrap/js/bootstrap.min.js','/bitrix/templates/new.todaykhv.ru/js/jQueryFormStyler/jquery.formstyler.js','/bitrix/templates/new.todaykhv.ru/js/likely/likely.js','/bitrix/templates/new.todaykhv.ru/js/stickyfill/stickyfill.min.js','/bitrix/templates/new.todaykhv.ru/js/fotorama-4.6.4/fotorama.js','/bitrix/templates/new.todaykhv.ru/js/scroll/jquery.mCustomScrollbar.concat.min.js','/bitrix/templates/new.todaykhv.ru/js/scroll/jquery.mCustomScrollbar.js','/bitrix/templates/new.todaykhv.ru/js/owl2/owl.carousel.js','/bitrix/templates/new.todaykhv.ru/js/fancybox/jquery.fancybox.min.js','/bitrix/templates/new.todaykhv.ru/js/scripts.js','/bitrix/templates/new.todaykhv.ru/components/bitrix/menu/news_menu/script.js','/bitrix/components/bitrix/search.title/script.js','/local/js/reaspekt/reaspekt.geobase/script.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/components/todaykhvnew/news.list/templates/newnew/style.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/system.pagenavigation/.default/style.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/news.list/news_feed_ajax/style.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/news.list/main_opinions_new/style.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/news.list/special_progect/style.css','/bitrix/templates/new.todaykhv.ru/bootstrap/css/bootstrap.css','/bitrix/templates/new.todaykhv.ru/css/news_item.css','/bitrix/templates/new.todaykhv.ru/css/news_fire.css','/bitrix/templates/new.todaykhv.ru/js/jQueryFormStyler/jquery.formstyler.css','/bitrix/templates/new.todaykhv.ru/js/likely/likely.css','/bitrix/templates/new.todaykhv.ru/js/fotorama-4.6.4/fotorama.css','/bitrix/templates/new.todaykhv.ru/js/scroll/jquery.mCustomScrollbar.css','/bitrix/templates/new.todaykhv.ru/js/scroll/jquery.mCustomScrollbar.min.css','/bitrix/templates/new.todaykhv.ru/js/owl2/owl.carousel.css','/bitrix/templates/new.todaykhv.ru/js/fancybox/jquery.fancybox.min.css','/bitrix/templates/new.todaykhv.ru/font-awesome.min.css','/bitrix/templates/new.todaykhv.ru/newYearTheme.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/menu/top/style.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/menu/gosuslugi/style.css','/bitrix/components/webprostor_new/weather/templates/weather/style.css','/bitrix/components/rasa/currency.rates_new/templates/.default/style.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/menu/news_menu/style.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/menu/footer/style.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/sender.subscribe/new/style.css','/bitrix/templates/new.todaykhv.ru/components/bitrix/search.title/visual/style.css','/bitrix/templates/new.todaykhv.ru/styles.css','/bitrix/templates/new.todaykhv.ru/template_styles.css','/local/css/reaspekt/reaspekt.geobase/style.css']);</script>
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/new.todaykhv.ru/template_0b60a2287570b535383ec8fdabc64587/template_0b60a2287570b535383ec8fdabc64587_v1.js?1611532960524929"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/new.todaykhv.ru/page_f1f53e144b26790a837b28b1413de403/page_f1f53e144b26790a837b28b1413de403_v1.js?16115329603609"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "a530907313e54b443b5edc83a59bdb74"]); _ba.push(["host", "todaykhv.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+<script charset="UTF-8" src="//cdn.sendpulse.com/28edd3380a1c17cf65b137fe96516659/js/push/7bdf86063e1da6fd173c8c1f3e0800be_1.js" async></script>
+
+<title>«Хабаровский край сегодня» - новости Хабаровского края</title>
+</head>
+
+<body>
+
+<div class="headerWrap greyBg">
+	<div class="container headerContainer">
+
+		<div class="col-xs-12 hidden-xs no-padding">
+    		<div class="bannerWrap">
+        		<div class="bannerImg">
+            		<noindex>
+            			<!--'start_frame_cache_top_banner'-->            				            				            			<!--'end_frame_cache_top_banner'-->            		</noindex>
+        		</div>
+    		</div>
+		</div>
+		<div class="col-xs-12 visible-xs no-padding">
+    		<div class="bannerWrap first-banner">
+        		<div class="bannerImg">
+            		<noindex>
+            			<!--'start_frame_cache_reclameTopXs'-->            				            				            			<!--'end_frame_cache_reclameTopXs'-->            		</noindex>
+        		</div>
+    		</div>
+		</div>
+		<div style="clear: both;"></div>
+
+		<div class="headerBarWrap hidden-xs">
+			<div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-3">
+					<div class="logoWrap">
+																									<img src="/bitrix/templates/new.todaykhv.ru/images/logo/logotype_anim_time-12.00.png?p=2" alt="Хабаровский край сегодня - информационное агентство" class="img-responsive">
+    																	</div>
+				</div>
+
+				<div class="col-lg-5 col-md-4 col-sm-5">
+					<div class="topMenuWrap">
+						<div class="headerDate visible-xs">Среда, 10 февраля, 14:46</div>
+
+						<a href="/newspapers/" class="newsPaperLink hidden"></a>
+						<div class="topMenuBlock hidden-xs">
+							
+<ul class="top-menu list-inline">
+
+			<li><a href="/" class="selected">Новости</a></li>
+		
+			<li><a href="/photo/">Фото</a></li>
+		
+			<li><a href="/video/">Видео</a></li>
+		
+			<li><a href="/polls/">Опросы</a></li>
+		
+			<li><a href="/newspapers/">Газеты</a></li>
+		
+	<li class="hidden-xs">
+		
+
+<div class="pay_menu">
+
+				<div class="PayBtn">
+					<div class="btn_grup">
+				      <button type="button" class="btn pay">Госуслуги <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+				    </div>
+			    </div>
+	
+	<ul class="left-menu" style="display:none">
+	
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10001" onclick="yaCounter40434055.reachGoal('fine')";>Оплата Штрафов ГИБДД</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10373" onclick="yaCounter40434055.reachGoal('house')";>Оплата услуг ЖКХ</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10051" onclick="yaCounter40434055.reachGoal('pass')";>Получить загранпаспорт</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10056" onclick="yaCounter40434055.reachGoal('driv')";>Получить права</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10066" onclick="yaCounter40434055.reachGoal('doc')";>Запись на прием к врачу </a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/category/learning" onclick="yaCounter40434055.reachGoal('child')";>Запись в детский сад/школу</a>
+			</li>
+				
+		
+	</ul>
+
+	</div>	</li>
+
+</ul>
+						</div>
+						<div class="topMenuBlock visible-xs">
+							
+<ul class="top-menu list-inline">
+
+			<li><a href="/" class="selected">Новости</a></li>
+		
+			<li><a href="/photo/">Фото</a></li>
+		
+			<li><a href="/video/">Видео</a></li>
+		
+			<li><a href="/newspapers/">Газеты</a></li>
+		
+	<li class="hidden-xs">
+		
+
+<div class="pay_menu">
+
+				<div class="PayBtn">
+					<div class="btn_grup">
+				      <button type="button" class="btn pay">Госуслуги <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+				    </div>
+			    </div>
+	
+	<ul class="left-menu" style="display:none">
+	
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10001" onclick="yaCounter40434055.reachGoal('fine')";>Оплата Штрафов ГИБДД</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10373" onclick="yaCounter40434055.reachGoal('house')";>Оплата услуг ЖКХ</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10051" onclick="yaCounter40434055.reachGoal('pass')";>Получить загранпаспорт</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10056" onclick="yaCounter40434055.reachGoal('driv')";>Получить права</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10066" onclick="yaCounter40434055.reachGoal('doc')";>Запись на прием к врачу </a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/category/learning" onclick="yaCounter40434055.reachGoal('child')";>Запись в детский сад/школу</a>
+			</li>
+				
+		
+	</ul>
+
+	</div>	</li>
+
+</ul>
+						</div>
+
+						<div class="socialGrpoupWrap hidden-xs">
+							<ul class="list-inline">
+	<li><a href="https://www.facebook.com/todaykhv/" target="_blank" class="fb"></a></li>
+	<li><a href="https://twitter.com/todaykhv" target="_blank" class="tw"></a></li>
+	<li><a href="https://vk.com/todaykhv" target="_blank" class="vk"></a></li>
+	<li><a href="https://t.me/todaykhv" target="_blank" class="tg"></a></li>	
+	<li><a href="https://ok.ru/group/55003256520704" target="_blank" class="ok"></a></li>
+    <li><a href="https://www.instagram.com/todaykhv/" target="_blank" class="inst"></a></li>
+</ul>						</div>
+
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-sm-3">
+					<div class="hederInformerWrapper">
+						 
+						 
+
+						
+							<div class="currencyWrap mainPage">
+	<ul class="list-inline">
+			<li>Доллар 74.12</li>
+			<li>Евро 89.53</li>
+			<li>Юань 1.15</li>
+		</ul>
+</div>
+
+					</div>
+				</div>
+				<div class="col-lg-1 col-md-1 col-sm-1">
+					<a href="#" class="searchBtn mainPage"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+<div class="mainMenuWrap">
+	<div class="container">
+		<div class="navbar navbar-default first">
+		<div class="navbar-header visible-xs">
+			<div>
+				<div class="col-xs-2 noPaddingRight noPaddingLeft">
+		              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+		                <span class="icon-bar icon-bar-1"></span>
+		                <span class="icon-bar icon-bar-2"></span>
+		                <span class="icon-bar icon-bar-3"></span>
+		              </button>
+		        </div>
+		        <div class="col-xs-8 text-center">
+		        			              <a class="navbar-brand visible-xs" href="/"><img src="/bitrix/templates/new.todaykhv.ru/images/logoXs.png" alt=""></a>
+							        </div>
+		        <div class="col-xs-2 noPaddingLeft noPaddingRight">
+		             <a href="#" class="searchBtn"></a>
+		        </div>
+		     </div>
+		</div>
+		<div class="collapse navbar-collapse bs-navbar-collapse">
+			<div class="topMenuWrap text-center visible-xs"></div>
+						<div class="socialGrpoupWrap visible-xs"></div>
+			<ul class="nav navbar-nav col-md-12 col-sm-12">
+										
+				
+					
+													<li><a href="/news/policy/" class="root-item">Политика</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/economics-and-business/" class="root-item">Экономика</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/society/" class="root-item">Общество</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/incident/" class="root-item">Происшествия</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/culture/" class="root-item">Культура</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/sport/" class="root-item">Спорт</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/in-areas-of-the-province/" class="root-item">Наш край</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/health/" class="root-item">Здоровье</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/views/" class="root-item">Мнения</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/tourism/" class="root-item">Туризм</a></li>
+						
+					
+				
+				
+							
+				
+					
+													<li><a href="/news/photoreport/" class="root-item">Фоторепортаж</a></li>
+						
+					
+				
+				
+			
+						</ul>
+			<div class="hederInformerWrapper visible-xs"></div>
+		</div>
+
+		
+		</div>
+		
+	</div>
+</div>
+
+			<div class="col-sm-12">
+				
+	
+
+	
+
+	<div class="container visible-xs">
+		<div class="filterWrap">
+			<div class="row">
+				<div class="col-lg-6 col-md-5 col-sm-4">
+					<div class="radioSelectorWrap">
+						<div class="btn-group">
+							<button type="button" data-action="/?AJAX_NEW=Y&MAIN=N" class="btn btn-default active">
+								Последнее
+							</button>
+							<button type="button" data-action="/?AJAX_NEW=Y&MAIN=Y" class="btn btn-default">
+								Популярное
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+ <!-- Вывод баннера с мнениями на главной -->
+  
+<div class="mainNewsResult">
+
+
+
+	<div class="container">
+		<div class="newsListWrap">
+					</div>
+	</div>
+
+<div class="newsListWrap greyBg mainPageNews newnew">
+	<div class="container">
+
+		
+<div class="row mainNewsWrap mainPage">
+	<div class="col-lg-3 col-md-3 col-sm-3 hidden-xs">
+		
+
+<div class="news-feed-ajax">
+			<div class="visible-xs feed-ajax-title sticky">
+			Лента новостей		</div>
+		
+					<div class='feed-date-note sticky'>
+				10 февраля			</div>
+			
+		<div class="feed-item" id="bx_3218110189_32788">
+			<div class="feed-item-title">
+				<a href="/news/society/32788/">
+					«Вместе в цифровое будущее»: на спецноминацию «Цифровой регион» поступило уже более 100 работ				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					14:45				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32779">
+			<div class="feed-item-title">
+				<a href="/news/culture/32779/">
+					В Хабаровском институте культуры студентов обучат блогерству				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					14:30				</span>
+				/ Культура			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32784">
+			<div class="feed-item-title">
+				<a href="/news/health/32784/">
+					В Хабаровском крае в ковидном госпитале появились свободные койки 				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					14:00				</span>
+				/ Здоровье			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32782">
+			<div class="feed-item-title">
+				<a href="/news/society/32782/">
+					Уссурийские пункты пропуска закрылись на время китайского Нового года				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					13:30				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32783">
+			<div class="feed-item-title">
+				<a href="/news/society/32783/">
+					Конкурс «Лидеры интернет-коммуникаций» привлёк участников из 79 регионов России				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					13:00				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32780">
+			<div class="feed-item-title">
+				<a href="/news/culture/32780/">
+					Туристический фестиваль «Грань» пройдёт в Хабаровске в 14 раз				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					12:30				</span>
+				/ Культура			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32777">
+			<div class="feed-item-title">
+				<a href="/news/policy/32777/">
+					Полпредство начало переезд из Хабаровска на остров Русский				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					12:00				</span>
+				/ Политика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32781">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32781/">
+					Основы инвестирования – в прямой трансляции лекции от Сбера				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					11:45				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32776">
+			<div class="feed-item-title">
+				<a href="/news/views/32776/">
+					Ремонт в квартире: уложиться за три дня				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					11:30				</span>
+				/ Мнения			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32759">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32759/">
+					Хабаровские торговые сети сдерживают цены на подсолнечное масло				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					11:00				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32773">
+			<div class="feed-item-title">
+				<a href="/news/sport/32773/">
+					«СКА-Хабаровск» в контрольном матче разошелся миром с «Текстильщиком»				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					10:30				</span>
+				/ Спорт			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32775">
+			<div class="feed-item-title">
+				<a href="/news/incident/32775/">
+					Прокуратура запросила для Виктора Ишаева 7 лет колонии				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					10:00				</span>
+				/ Происшествия			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32750">
+			<div class="feed-item-title">
+				<a href="/news/society/32750/">
+					Хабаровчане спешат переоформлять договоры ОСАГО				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					09:30				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32772">
+			<div class="feed-item-title">
+				<a href="/news/incident/32772/">
+					Самолёт из Хабаровска попал в аварию на Курилах				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					09:00				</span>
+				/ Происшествия			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32770">
+			<div class="feed-item-title">
+				<a href="/news/health/32770/">
+					3 779 «активных»: данные о COVID в Хабаровском крае на 9 февраля				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					08:00				</span>
+				/ Здоровье			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32741">
+			<div class="feed-item-title">
+				<a href="/news/society/32741/">
+					Гороскоп на 10 февраля: Близнецы сегодня могут дать хороший совет				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					00:05				</span>
+				/ Общество			</div>
+		</div>
+		
+					<div class='feed-date-note sticky'>
+				09 февраля			</div>
+			
+		<div class="feed-item" id="bx_3218110189_32757">
+			<div class="feed-item-title">
+				<a href="/news/sport/32757/">
+					Комсомольский стадион «Авангард» готовится к реконструкции				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					20:00				</span>
+				/ Спорт			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32754">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32754/">
+					Жители Корфовского «выстрадали» долгожданную школу				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					19:30				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32753">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32753/">
+					Рыбакам Хабаровского края могут предложить «рыбную интервенцию»				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					19:00				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32751">
+			<div class="feed-item-title">
+				<a href="/news/in-areas-of-the-province/32751/">
+					Охотчане выясняют судьбу найденной на берегу моря медали «За отвагу»				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					18:30				</span>
+				/ Наш край			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32752">
+			<div class="feed-item-title">
+				<a href="/news/in-areas-of-the-province/32752/">
+					В Верхнебуреинском районе отремонтируют в несколько раз больше крыш 				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					18:00				</span>
+				/ Наш край			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32755">
+			<div class="feed-item-title">
+				<a href="/news/health/32755/">
+					Власти Хабаровского края объяснили, когда можно будет снять маски				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					17:30				</span>
+				/ Здоровье			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32749">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32749/">
+					Лесозаготовителям Хабаровского края дали шанс на модернизацию бизнеса				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					17:00				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32744">
+			<div class="feed-item-title">
+				<a href="/news/tourism/32744/">
+					Ледяные грибы Бурейского водохранилища набирают популярность у туристов				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					16:30				</span>
+				/ Туризм			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32748">
+			<div class="feed-item-title">
+				<a href="/news/incident/32748/">
+					В Хабаровске осудили директора «Тополька» за обман дольщиков				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					16:00				</span>
+				/ Происшествия			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32745">
+			<div class="feed-item-title">
+				<a href="/news/in-areas-of-the-province/32745/">
+					Поручение Михаила Дегтярёва по свету в Макаровке исполнено				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					15:30				</span>
+				/ Наш край			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32747">
+			<div class="feed-item-title">
+				<a href="/news/society/32747/">
+					Районы Хабаровского края получат дополнительный бензин				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					15:00				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32746">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32746/">
+					Сбер и «Коркунов» дают шанс получить миллион бонусов за покупку сладостей				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					14:30				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32743">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32743/">
+					Хабаровским кафе и ресторанам разрешили работать круглосуточно				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					14:00				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32742">
+			<div class="feed-item-title">
+				<a href="/news/society/32742/">
+					На порядок во дворах многоэтажек Хабаровского края выделено 132 млн рублей				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					13:30				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32739">
+			<div class="feed-item-title">
+				<a href="/news/in-areas-of-the-province/32739/">
+					В самый дальний уголок Хабаровского края пробивают дорогу				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					13:00				</span>
+				/ Наш край			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32738">
+			<div class="feed-item-title">
+				<a href="/news/society/32738/">
+					Жители Хабаровского края задолжали коммунальщикам 5 млрд рублей				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					12:30				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32740">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32740/">
+					Сбер предложил хабаровчанам обмен мелочи на памятные монеты				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					12:15				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32737">
+			<div class="feed-item-title">
+				<a href="/news/society/32737/">
+					Ложные звонки поступают пожарным и спасателям тысячами 				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					12:00				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32736">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32736/">
+					Предприниматели Хабаровского края принимают оплату по QR-коду				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					11:30				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32734">
+			<div class="feed-item-title">
+				<a href="/news/tourism/32734/">
+					На хабаровский курорт «Холдоми» привлекут туристов из других регионов				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					11:00				</span>
+				/ Туризм			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32733">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32733/">
+					Минобороны полностью оплатило потребленный в 2020 году энергоресурс в Хабаровском крае				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					10:30				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32714">
+			<div class="feed-item-title">
+				<a href="/news/culture/32714/">
+					Хабаровчане заранее строят планы на День влюбленных				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					10:00				</span>
+				/ Культура			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32727">
+			<div class="feed-item-title">
+				<a href="/news/in-areas-of-the-province/32727/">
+					Аэропорты хабаровского севера защитили от птиц				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					09:30				</span>
+				/ Наш край			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32724">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32724/">
+					Число получателей электронных квитанций ПАО «ДЭК» в Хабаровском крае выросло в четыре раза				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					09:00				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32728">
+			<div class="feed-item-title">
+				<a href="/news/health/32728/">
+					3 903 «активных»: статистика COVID в Хабаровском крае на 8 февраля				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					08:00				</span>
+				/ Здоровье			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32726">
+			<div class="feed-item-title">
+				<a href="/news/society/32726/">
+					Гороскоп на 9 февраля: Скорпионы, флиртуйте и больше открытости в чувствах				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					00:05				</span>
+				/ Общество			</div>
+		</div>
+		
+					<div class='feed-date-note sticky'>
+				08 февраля			</div>
+			
+		<div class="feed-item" id="bx_3218110189_32721">
+			<div class="feed-item-title">
+				<a href="/news/health/32721/">
+					В Комсомольске-на-Амуре на онкологию проверят специалистов заводов. 				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					20:00				</span>
+				/ Здоровье			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32723">
+			<div class="feed-item-title">
+				<a href="/news/culture/32723/">
+					Персональную коллекцию Алексея Чёрного передали в Гродековскй музей				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					19:30				</span>
+				/ Культура			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32720">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32720/">
+					Топлива в Хабаровском крае достаточно, но распределяют его в Москве				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					19:00				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32725">
+			<div class="feed-item-title">
+				<a href="/news/society/32725/">
+					Наука затягивает – победители конкурса молодых учёных в Хабаровске				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					18:30				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32718">
+			<div class="feed-item-title">
+				<a href="/news/sport/32718/">
+					Хоккеисты Хабаровского края завоевали «серебро» в XII региональном турнире				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					18:00				</span>
+				/ Спорт			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32722">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32722/">
+					«Россети ФСК ЕЭС» делают энергоэффективной ключевую подстанцию ДВ				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					17:45				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32716">
+			<div class="feed-item-title">
+				<a href="/news/society/32716/">
+					В Хабаровском крае на этой неделе сильно потеплеет				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					17:30				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32719">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32719/">
+					Михаил Дегтярёв: «Кризис с топливом научит нас правильно реагировать на подобные происшествия»				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					17:00				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32715">
+			<div class="feed-item-title">
+				<a href="/news/society/32715/">
+					Микрорайон Комсомольска-на-Амуре наконец получит аптеку и банкомат				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					16:30				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32713">
+			<div class="feed-item-title">
+				<a href="/news/culture/32713/">
+					В Хабаровском институте культуры стало в три раза больше «бюджета»				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					16:00				</span>
+				/ Культура			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32717">
+			<div class="feed-item-title">
+				<a href="/news/economics-and-business/32717/">
+					Покупка вторичного жилья онлайн доступна с новой услугой Сбера				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					15:45				</span>
+				/ Экономика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32710">
+			<div class="feed-item-title">
+				<a href="/news/society/32710/">
+					Очиститель воздуха и «чудо-таблетка»: мошенники решили воспользоваться эпидемобстановкой				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					15:30				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32712">
+			<div class="feed-item-title">
+				<a href="/news/society/32712/">
+					Крепкие семьи Хабаровского края наградят деньгами и сувенирами				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					15:00				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32708">
+			<div class="feed-item-title">
+				<a href="/news/culture/32708/">
+					Юные хабаровские кинематографы заявились на Всероссийский конкурс				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					14:30				</span>
+				/ Культура			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32709">
+			<div class="feed-item-title">
+				<a href="/news/policy/32709/">
+					В Хабаровске больше нет Фукусимы				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					14:00				</span>
+				/ Политика			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32711">
+			<div class="feed-item-title">
+				<a href="/news/society/32711/">
+					Нефтезавод в Комсомольске-на-Амуре проверят на соблюдение экологических норм				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					13:30				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32707">
+			<div class="feed-item-title">
+				<a href="/news/society/32707/">
+					Всероссийская перепись населения переносится на сентябрь				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					13:00				</span>
+				/ Общество			</div>
+		</div>
+		
+		
+		<div class="feed-item" id="bx_3218110189_32704">
+			<div class="feed-item-title">
+				<a href="/news/society/32704/">
+					Расписание экзаменов-2021 опубликовал Рособрнадзор				</a>
+			</div>
+			<div class="feed-item-info">
+				<span class="item-info-time">
+					12:30				</span>
+				/ Общество			</div>
+		</div>
+		</div>
+
+<hr class="visible-xs">
+
+	<script type="text/javascript">
+		if(!window.news_feed_ajax_params)
+			window.news_feed_ajax_params = {"IBLOCK_TYPE":"news","IBLOCK_ID":"2","NEWS_COUNT":60,"SORT_BY1":"DATE_ACTIVE_FROM","SORT_ORDER1":"DESC","SORT_BY2":"SHOW_COUNTER","SORT_ORDER2":"DESC","AJAX_PATH":"\/ajax\/news_feed_ajax.php","CACHE_TYPE":"A","~IBLOCK_TYPE":"news","~IBLOCK_ID":2,"~NEWS_COUNT":60,"~SORT_BY1":"DATE_ACTIVE_FROM","~SORT_ORDER1":"DESC","~SORT_BY2":"SHOW_COUNTER","~SORT_ORDER2":"DESC","~AJAX_PATH":"\/ajax\/news_feed_ajax.php","~CACHE_TYPE":"A","CACHE_TIME":36000000,"PARENT_SECTION":0,"INCLUDE_SUBSECTIONS":true,"SET_LAST_MODIFIED":false,"CHECK_DATES":true,"FIELD_CODE":[],"PROPERTY_CODE":[],"DETAIL_URL":"","CACHE_FILTER":false,"SET_TITLE":true,"SET_BROWSER_TITLE":"Y","SET_META_KEYWORDS":"Y","SET_META_DESCRIPTION":"Y","ADD_SECTIONS_CHAIN":true,"INCLUDE_IBLOCK_INTO_CHAIN":true,"STRICT_SECTION_CHECK":false,"ACTIVE_DATE_FORMAT":"d.m.Y","PREVIEW_TRUNCATE_LEN":0,"HIDE_LINK_WHEN_NO_DETAIL":false,"DISPLAY_TOP_PAGER":false,"DISPLAY_BOTTOM_PAGER":true,"PAGER_TITLE":"","PAGER_SHOW_ALWAYS":false,"PAGER_TEMPLATE":"","PAGER_DESC_NUMBERING":false,"PAGER_DESC_NUMBERING_CACHE_TIME":0,"PAGER_SHOW_ALL":false,"CHECK_PERMISSIONS":true,"USE_PERMISSIONS":false,"GROUP_PERMISSIONS":[1],"NAV_STRING":"\n<div class=\"bx-pagination \">\n\t<div class=\"bx-pagination-container row\">\n\t\t<ul>\n\n\t\t\t\t<li class=\"bx-pag-prev\"><span>\u041d\u0430\u0437\u0430\u0434<\/span><\/li>\n\t\t\t<li class=\"bx-active\"><span>1<\/span><\/li>\n\t\n\t\t\t\t\t\t<li class=\"\"><a href=\"\/?PAGEN_1=2\"><span>2<\/span><\/a><\/li>\n\t\t\t\t\t\t\t\t\t\t<li class=\"\"><a href=\"\/?PAGEN_1=3\"><span>3<\/span><\/a><\/li>\n\t\t\t\t\t\t\t\t\t\t<li class=\"\"><a href=\"\/?PAGEN_1=4\"><span>4<\/span><\/a><\/li>\n\t\t\t\t\t\n\t\t\t\t\t\t<li class=\"\"><a href=\"\/?PAGEN_1=434\"><span>434<\/span><\/a><\/li>\n\t\t\t\t\t<li class=\"bx-pag-next\"><a href=\"\/?PAGEN_1=2\"><span>\u0412\u043f\u0435\u0440\u0435\u0434<\/span><\/a><\/li>\n\t\n\t\t<\/ul>\n\t\t<div style=\"clear:both\"><\/div>\n\t<\/div>\n<\/div>\n","LAST_DATE":"08 \u0444\u0435\u0432\u0440\u0430\u043b\u044f"};
+	</script>
+	</div>
+	<div class="col-lg-9 col-md-9 col-sm-9 col-xs-12" id="height-control-line-1">
+		
+<div class="row mainNewsWrap mainPage">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 newsCol">
+					
+
+<div class="itemNewsWrap firstNews" id="bx_1527257483_32784">
+						<div class="itemNews interviewNews hidden-xs" style='background-image:url(/images/glass-first-all.png?1), url("/upload/resized/ec1/ec1d8c82c28ac4918d3f6f75b9a9c5e7.jpg");'>
+			<div class="itemSection">
+								<a href="/news/health/">
+																		<i class="icons iconFlagG"></i>
+																Здоровье				</a>
+				<span class="itemTime" data-time="10.02.2021 14:00:00">10.02.2021 14:00:00</span>
+			</div>
+			<div class="itemNewsHead">
+				<a href="/news/health/32784/">В Хабаровском крае в ковидном госпитале появились свободные койки </a>
+			</div>
+			<div class="itemNewsPeviewText">Количество пациентов с COVID в больницах сокращается</div>
+			<div class="itemNewsInfo" style="color:#fff">
+				<span>10 февраля 2021, 14:00</span>
+							</div>
+		</div>
+		<div class="itemNews defNewsPhoto visible-xs">
+			<a href="/news/health/32784/" class="imgWrap" style="background-image:url(/images/glass-first-all.png?1), url('/upload/resized/ec1/ec1d8c82c28ac4918d3f6f75b9a9c5e7.jpg');background-size:cover;"></a>
+			<div class="itemNewsTextWrap">
+				<div class="itemSection">
+										<a href="/news/health/">
+																														<i class="icons iconFlagG"></i>
+																											Здоровье					</a>
+					<span class="itemTime" data-time="10.02.2021 14:00:00">10.02.2021 14:00:00</span>
+				</div>
+				<div class="itemNewsHead">
+					<a href="/news/health/32784/">В Хабаровском крае в ковидном госпитале появились свободные койки </a>
+				</div>
+				<div class="itemNewsPeviewText">Количество пациентов с COVID в больницах сокращается</div>
+				<div class="itemNewsInfo">
+					<span>10 февраля 2021, 14:00</span>
+									</div>
+			</div>
+		</div>
+	</div>
+				</div>
+				</div>
+		<!-- <div class="col-xs-12 visible-xs">
+					</div> -->
+		
+	<div class="smallNews first">
+		<div class="row">
+							
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32788">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/society/32788/" class="imgWrap marker3" style="background-image:url('/upload/iblock/9a5/vmestevtsifrovoebudushcheenaspetsnominatsiyutsifrovoyregionpostupilouzhebolee100rabot.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/society/">
+																						Общество										</a>
+										<span class="itemTime" data-time="10.02.2021 14:45:00">10.02.2021 14:45:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/society/32788/">«Вместе в цифровое будущее»: на спецноминацию «Цифровой регион» поступило уже более 100 работ</a>
+									</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 14:45</span>
+																			</div>
+								</div>
+							</div>
+											</div>
+				</div>
+
+															
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32779">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/culture/32779/" class="imgWrap marker3" style="background-image:url('/upload/iblock/fae/vkhabarovskominstitutekulturystudentovobuchatblogerstvu.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																					<span class="iconExclusive">Эксклюзив</span>
+																				<a href="/news/culture/">
+																						Культура										</a>
+										<span class="itemTime" data-time="10.02.2021 14:30:00">10.02.2021 14:30:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/culture/32779/">В Хабаровском институте культуры студентов обучат блогерству</a>
+									</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 14:30</span>
+																			</div>
+								</div>
+							</div>
+											</div>
+				</div>
+
+															
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32782">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/society/32782/" class="imgWrap marker3" style="background-image:url('/upload/iblock/7bd/ussuriyskiepunktypropuskazakrylisnavremyakitayskogonovogogoda.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/society/">
+																						Общество										</a>
+										<span class="itemTime" data-time="10.02.2021 13:30:00">10.02.2021 13:30:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/society/32782/">Уссурийские пункты пропуска закрылись на время китайского Нового года</a>
+									</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 13:30</span>
+																			</div>
+								</div>
+							</div>
+											</div>
+				</div>
+
+										</div>
+	</div>
+	</div>
+</div>
+
+	<div class="col-sm-12 hidden-xs lineSeparator"></div>
+	<div class="otherNews">
+		<div class="row">
+																				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol firstNews">
+					<div class="itemNewsWrap" id="bx_1527257483_32783">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/society/32783/" class="imgWrap" style="background-image:url('/upload/iblock/4e7/smartphone_1445489_1280.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/society/">
+																						Общество										</a>
+										<span class="itemTime" data-time="10.02.2021 13:00:00">10.02.2021 13:00:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/society/32783/">Конкурс «Лидеры интернет-коммуникаций» привлёк участников из 79 регионов России</a>
+									</div>
+									<div class="itemNewsPeviewText">Регистрация продлится до 26 февраля 2021 года</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 13:00</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+				
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol firstNews">
+					<div class="itemNewsWrap" id="bx_1527257483_32780">
+
+													<div class="itemNews photoNews">
+
+								<a href="/news/culture/32780/" class="imgWrap" style="background-image:url('/upload/iblock/d1c/DV-_59_.jpg');"></a>
+
+								<div class="itemPhotoTextWrap">
+									<div class="itemSection">
+																				<a href="/news/culture/">
+											<i class="icons iconPhoto"></i>Культура										</a>
+										<span class="itemTime" data-time="10.02.2021 12:30:00">10.02.2021 12:30:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/culture/32780/">Туристический фестиваль «Грань» пройдёт в Хабаровске в 14 раз</a>
+									</div>
+									<div class="itemNewsPeviewText">Выставка фото и видеоработ стартует 19 февраля</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 12:30</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+				
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol firstNews">
+					<div class="itemNewsWrap" id="bx_1527257483_32777">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/policy/32777/" class="imgWrap" style="background-image:url('/upload/iblock/671/POLPREDSTVO.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/policy/">
+																						Политика										</a>
+										<span class="itemTime" data-time="10.02.2021 12:00:00">10.02.2021 12:00:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/policy/32777/">Полпредство начало переезд из Хабаровска на остров Русский</a>
+									</div>
+									<div class="itemNewsPeviewText">Госструктурам, кто откажется перебраться во Владивосток, Трутнев пригрозил последствиями</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 12:00</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+				
+		</div>
+	</div>
+
+<div class="col-sm-12 hidden-xs lineSeparator"></div>
+<div class="row">
+
+	<div class="col-sm-6 col-xs-12 mainPage">
+		<!-- Вывод баннера с мнениями на главной -->
+				
+
+<div class="mainOpinionsWrapper">
+<div class="opinionsSlider-header">Мнения&nbsp&nbsp</div><div class="afterText"></div>
+<div class="clearfix"></div>
+<div class="opinionsSlider">
+		<div class="wrapItemOpininons" id="bx_651765591_32776">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32776/">
+					<img src="/upload/iblock/425/2.png">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="10.02.2021 11:30:00">10.02.2021 11:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Марина Казанцева:
+		</div>
+		<a href="/news/views/32776/" class="opinionLink">Ремонт в квартире: уложиться за три дня		<div class="opinionPrev">Председатель ТСЖ Марина Казанцева об идее ограничить ремонт в квартирах тремя днями в неделю</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32685">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32685/">
+					<img src="/upload/iblock/2b9/isaeva-mnenie.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="06.02.2021 16:15:00">06.02.2021 16:15:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Ксения Исаева:
+		</div>
+		<a href="/news/views/32685/" class="opinionLink">За кого выходим, мальчики?		<div class="opinionPrev">Хабаровчанка Ксения Исаева о том, чьими мыслями и эмоциями сегодня живут наши дети</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32649">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32649/">
+					<img src="/upload/iblock/7ce/Foto-Zausaev.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="05.02.2021 13:00:00">05.02.2021 13:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Вадим Заусаев:
+		</div>
+		<a href="/news/views/32649/" class="opinionLink">Бензин как индикатор человеческих отношений		<div class="opinionPrev">Профессор Вадим Заусаев о том, почему любой дефицит заставляет нас переходить запретную грань</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32559">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32559/">
+					<img src="/upload/iblock/191/Unagaev.JPG">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="02.02.2021 17:30:00">02.02.2021 17:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Дмитрий Унагаев:
+		</div>
+		<a href="/news/views/32559/" class="opinionLink">Электричество сохранит ваши нервы и деньги		<div class="opinionPrev">Организатор хабаровского клуба владельцев электромобилей Дмитрий Унагаев о том, как обойти стороной топливный кризис</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32424">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32424/">
+					<img src="/upload/iblock/01c/3_112738904812484.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="29.01.2021 11:00:00">29.01.2021 11:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Ольга  Олифер:
+		</div>
+		<a href="/news/views/32424/" class="opinionLink">Естественная склонность ко лжи есть у каждого		<div class="opinionPrev">Генеральный директор Хабаровского центра развития психологии и детства «Псилогия» Ольга Олифер о лжи, как о важной части коммуникации.</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32432">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32432/">
+					<img src="/upload/iblock/2b9/isaeva-mnenie.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="28.01.2021 10:00:00">28.01.2021 10:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Ксения Исаева:
+		</div>
+		<a href="/news/views/32432/" class="opinionLink">Не просто моя детская мечта...		<div class="opinionPrev">Председатель Союза журналистов Хабаровского края Ксения Исаева о брендах в общепите</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32368">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32368/">
+					<img src="/upload/iblock/a25/CHUDESOV.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="27.01.2021 14:30:00">27.01.2021 14:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Валерий Чудесов:
+		</div>
+		<a href="/news/views/32368/" class="opinionLink">Регионам предлагается двоевластие		<div class="opinionPrev">Доктор исторических наук Валерий Чудесов о новом тренде - разделении региональной власти и об уроках двоевластия: </div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32351">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32351/">
+					<img src="/upload/iblock/b78/PASHA.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="25.01.2021 17:00:00">25.01.2021 17:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Павел Пантелеев:
+		</div>
+		<a href="/news/views/32351/" class="opinionLink">Усложните доступ к накоплениям своим родным		<div class="opinionPrev">Хабаровский психолог Павел Пантелеев о том, кто требует по телефону срочных действий</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32282">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32282/">
+					<img src="/upload/iblock/a90/portret1.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="24.01.2021 11:00:00">24.01.2021 11:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Елена Пуличева :
+		</div>
+		<a href="/news/views/32282/" class="opinionLink">Сделать своё жилище больше можно всего за 21 день		<div class="opinionPrev">Организатор пространств Елена Пуличева о новой профессии на рынке услуг и о том, как избавиться от неприятного прошлого</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32318">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32318/">
+					<img src="/upload/iblock/a8d/825.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="23.01.2021 13:45:00">23.01.2021 13:45:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Сергей Галицын:
+		</div>
+		<a href="/news/views/32318/" class="opinionLink">Детей необходимо защитить от политических манипуляций		<div class="opinionPrev">Ректор ДВГАФК Сергей Галицын о недопустимости призывов к участию в несанкционированных акциях</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32305">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32305/">
+					<img src="/upload/iblock/d6f/Foto-Reshetkina.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="22.01.2021 19:30:00">22.01.2021 19:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Валентина Решёткина:
+		</div>
+		<a href="/news/views/32305/" class="opinionLink">В трагедии Шамсутдинов виноват не один		<div class="opinionPrev">Председатель комитета солдатских матерей Хабаровского края Валентина Решеткина о приговоре по громкому делу Рамиля Шамсутдинова</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32266">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32266/">
+					<img src="/upload/iblock/2c4/Ilyuk.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="21.01.2021 18:30:00">21.01.2021 18:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Олег Ильюк:
+		</div>
+		<a href="/news/views/32266/" class="opinionLink">Плохого человека на Украине врагом не назовут		<div class="opinionPrev">Начальник медицинской службы отдельного разведовательно-диверсионного батальона Луганской республики Олег Ильюк о долге и о том, почему Михаила Дегтярёва обвиняют в финансировании терроризма </div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32241">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32241/">
+					<img src="/upload/iblock/251/SMYSHNIKOV.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="20.01.2021 15:30:00">20.01.2021 15:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Евгений Смышников:
+		</div>
+		<a href="/news/views/32241/" class="opinionLink">Михаил Дегтярёв помешал вбить клин между русскими и украинцами		<div class="opinionPrev">Руководитель «Боевого братства» в Хабаровском крае Евгений Смышников о киевском фарсе</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_32174">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/32174/">
+					<img src="/upload/iblock/955/WhatsApp-Image-2021_01_18-at-10.23.42.jpeg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="19.01.2021 10:30:00">19.01.2021 10:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Кристина Кононова:
+		</div>
+		<a href="/news/views/32174/" class="opinionLink">Дайте ребенку время поматериться 		<div class="opinionPrev">О значении слов-варваров в нашей жизни и о том, как отучить подростка сквернословить рассказывает филолог Кристина Кононова</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31894">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31894/">
+					<img src="/upload/iblock/9fe/KHAMZIN-OBLOZHKA.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="31.12.2020 17:00:00">31.12.2020 17:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Сергей Хамзин:
+		</div>
+		<a href="/news/views/31894/" class="opinionLink">Брусника и правильный супчик на утро 1 января		<div class="opinionPrev">Кулинарный эксперт Сергей Хамзин о новогоднем застолье без «последствий»</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31837">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31837/">
+					<img src="/upload/iblock/edb/fXs9BeZzJj8.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="30.12.2020 13:00:00">30.12.2020 13:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Алевтина  Скворцова :
+		</div>
+		<a href="/news/views/31837/" class="opinionLink">Астролог из Хабаровска дала прогноз на 2021 год		<div class="opinionPrev">Алевтина Скворцова о том, к чему жителям Хабаровского края стоит быть готовыми в наступающем году</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31823">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31823/">
+					<img src="/upload/iblock/b2c/salavat.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="29.12.2020 13:30:00">29.12.2020 13:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Салават Сулейманов:
+		</div>
+		<a href="/news/views/31823/" class="opinionLink">Хабаровчанам рассказали всю правду о витаминах		<div class="opinionPrev">Так ли безобидны витамины и можно ли их назначать себе самому?</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31720">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31720/">
+					<img src="/upload/iblock/c7a/123.png">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="28.12.2020 18:00:00">28.12.2020 18:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Игорь Мосин :
+		</div>
+		<a href="/news/views/31720/" class="opinionLink">«Не заплывай туда, откуда не сможешь приплыть…»		<div class="opinionPrev">Директор Хабаровского краевого колледжа искусств Игорь Мосин о «пандемическом уроке»</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31746">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31746/">
+					<img src="/upload/iblock/19b/Kononenko-1-_-na-sayt.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="28.12.2020 10:30:00">28.12.2020 10:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Галина Кононенко:
+		</div>
+		<a href="/news/views/31746/" class="opinionLink"> Михаил Дегтярёв умеет слушать людей и слышать		<div class="opinionPrev">Председатель Общественной палаты Хабаровского края Галина Кононенко о том, зачем нужны «прямые линии» первых лиц региона</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31735">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31735/">
+					<img src="/upload/iblock/a25/CHUDESOV.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="25.12.2020 15:30:00">25.12.2020 15:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Валерий Чудесов:
+		</div>
+		<a href="/news/views/31735/" class="opinionLink">У Михаила Дегтярева хабаровская прописка не только по паспорту		<div class="opinionPrev">Доктор исторических наук, профессор РАНХиГС Валерий Чудесов о впечатлениях от «прямой линии» Михаила Дегтярёва</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31643">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31643/">
+					<img src="/upload/iblock/a4f/sleptsov.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="24.12.2020 16:00:00">24.12.2020 16:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Михаил Слепцов:
+		</div>
+		<a href="/news/views/31643/" class="opinionLink">Редкий судебный приговор - оправдательный		<div class="opinionPrev">Хабаровский адвокат Михаил Слепцов - о том, почему оправдательные приговоры у нас единичны</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31640">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31640/">
+					<img src="/upload/iblock/0f9/Foto-Kosmachev.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="23.12.2020 13:30:00">23.12.2020 13:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Михаил Космачёв:
+		</div>
+		<a href="/news/views/31640/" class="opinionLink">Медвытрезвитель или приемный покой? 		<div class="opinionPrev">Главврач второй краевой больницы в Хабаровске Михаил Космачев - о том, зачем нам нужны медвытрезвители:</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31467">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31467/">
+					<img src="/upload/iblock/540/20191010_DSC02998.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="18.12.2020 16:00:00">18.12.2020 16:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Елена  Колмагорцева :
+		</div>
+		<a href="/news/views/31467/" class="opinionLink">Целоваться с няней малышам запрещено		<div class="opinionPrev">Руководитель компании по предоставлению услуг няни Елена Колмагорцева о том, кому не стоит доверять свое чадо</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31349">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31349/">
+					<img src="/upload/iblock/25c/foto1_veb.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="15.12.2020 09:00:00">15.12.2020 09:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Виолетта  Батищева :
+		</div>
+		<a href="/news/views/31349/" class="opinionLink">«Включайтесь» в праздник без суеты		<div class="opinionPrev">Психолог Виолетта Батищева о том, как в новогоднем ажиотаже не потерять праздничное настроение и чем его обеспечить.</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31337">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31337/">
+					<img src="/upload/iblock/874/02746a460b043216bdfbeeb4df828883.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="14.12.2020 11:00:00">14.12.2020 11:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Сергей Юран:
+		</div>
+		<a href="/news/views/31337/" class="opinionLink">На поле играют не деньги, а футболисты — Сергей Юран		<div class="opinionPrev">Главный тренер ФК «СКА-Хабаровск» об итогах игр, планах на пополнение и задачах на сезон</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31272">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31272/">
+					<img src="/upload/iblock/22e/krel.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="10.12.2020 15:30:00">10.12.2020 15:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Наталья Крель:
+		</div>
+		<a href="/news/views/31272/" class="opinionLink">Преодолимые барьеры 		<div class="opinionPrev">Вице-президент Федерации спортивных танцев на колясках Наталья Крель о доступной среде и Пифийских играх</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31196">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31196/">
+					<img src="/upload/iblock/04e/Foto-Gorokhovskiy.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="09.12.2020 11:00:00">09.12.2020 11:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Вадим Гороховский:
+		</div>
+		<a href="/news/views/31196/" class="opinionLink">Ковид обостряет чувство долга 		<div class="opinionPrev">Заведующий кафедрой Дальневосточного медуниверситета Вадим Гороховский о профессии и врачебном долге</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31198">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31198/">
+					<img src="/upload/iblock/ff3/2019_07_20_32_Semeynyiy_vyihodnoy.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="08.12.2020 11:00:00">08.12.2020 11:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Виктор  Лягущенко :
+		</div>
+		<a href="/news/views/31198/" class="opinionLink">Цена новогоднего подарка зависит от… воспитания!		<div class="opinionPrev">Председатель Совета отцов Хабаровска рассказал о том, как выполнить новогоднее желание ребенка и не разориться</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_31104">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/31104/">
+					<img src="/upload/iblock/a90/portret1.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="04.12.2020 12:30:00">04.12.2020 12:30:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Елена Пуличева :
+		</div>
+		<a href="/news/views/31104/" class="opinionLink">«Ломать» ребенка не нужно: к воспитанию детей современные родители относятся по-иному		<div class="opinionPrev">Мама двоих детей Елена Пуличева о тонкостях в воспитании ребёнка</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+		<div class="wrapItemOpininons" id="bx_651765591_30866">
+		<div class="opinionImgWrap">
+			<div class="opinionImg">
+				<a href="/news/views/30866/">
+					<img src="/upload/iblock/53c/duhovnyy_andrey_leonidovich.jpg">
+				</a>
+			</div>
+		</div>
+		<div class="itemSection">
+			<a href="/news/views/">
+				МНЕНИЕ
+			</a>
+			<span class="itemTime" data-time="02.12.2020 10:00:00">02.12.2020 10:00:00</span>
+		</div>
+		<div class="opinionPeopleName hidden-xs">
+			Андрей Духовный:
+		</div>
+		<a href="/news/views/30866/" class="opinionLink">Вытрезвители спасут «скорую помощь» от опасной работы		<div class="opinionPrev">Заместитель главного врача станции «скорой» Хабаровска Андрей Духовный о возвращении вытрезвителей</div></a>
+		<!-- <div class="opinionDate"></div> -->
+		<a class="all-views visible-xs" href="/news/views/">Другие мнения</a>
+	</div>
+</div>
+</div>
+
+<script>
+	$(function(){
+		setTimeout(function() {
+			$('.opinionsSlider').owlCarousel({
+			    loop:false,
+			    nav:true,
+			    items:3,
+			    slideBy : 2,
+		        autoplay : true,
+		        autoplayTimeout : 5000,
+		        smartSpeed: 800,
+			    autoHeight:false,
+			    responsive : {
+			        0 : {
+			        	items : 1,
+				        autoHeight: true,
+			        },
+			        769 : {
+			        	items : 3,
+			        	autoHeight: false,
+			        },
+			        1041 : {
+			            option1 : 3,
+			        }
+			    }
+			});
+		}, 200)
+	});
+</script>
+	</div>
+
+	<div class="col-sm-6 col-xs-12 mainPage">
+		<!-- Вывод баннера со спецпроектами на главной -->
+		
+<div class="specialProgectsWrapper">
+<div class="specialProgectsSlider">
+
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+
+		<div class="wrapItemSpecialProgects" style="background:url(images/glass-first.png), url(/upload/iblock/818/spetsproekt-_1_.png) no-repeat center center" id="bx_1373509569_12482">
+		<div class="pull-left prev-name hidden-xs">Дальневосточный гектар: получить и развить</div><div class="pull-right text-right next-name hidden-xs">АВТОМОБИЛЬНАЯ ДОРОГА «ОБХОД ХАБАРОВСКА КМ 13 – КМ 42»</div>
+		<div class="SpecialProgectsLabel"></div>
+		<a href="https://todaykhv.ru/tochka_kipenia/" target="_blank">
+			<div class="SpecialProgectsName">
+				Развивай потенциал на «Точке кипения»			</div>
+		</a>
+		<div class="SpecialProgectsPrev"></div></a>
+		<a class="SpecialProgectsBttn hidden-xs" href="https://todaykhv.ru/tochka_kipenia/" target="_blank">СМОТРЕТЬ</a>
+	</div>		
+		<div class="wrapItemSpecialProgects" style="background:url(images/glass-first.png), url(/upload/iblock/20f/spetsproekt.jpg) no-repeat center center" id="bx_1373509569_11861">
+		<div class="pull-left prev-name hidden-xs">Развивай потенциал на «Точке кипения»</div><div class="pull-right text-right next-name hidden-xs">Юбилей города Юности, или в 85 всё только начинается</div>
+		<div class="SpecialProgectsLabel"></div>
+		<a href="/obhod_khabarovsk/" target="_blank">
+			<div class="SpecialProgectsName">
+				АВТОМОБИЛЬНАЯ ДОРОГА «ОБХОД ХАБАРОВСКА КМ 13 – КМ 42»			</div>
+		</a>
+		<div class="SpecialProgectsPrev">Объединяя Дальний Восток</div></a>
+		<a class="SpecialProgectsBttn hidden-xs" href="/obhod_khabarovsk/" target="_blank">СМОТРЕТЬ</a>
+	</div>		
+		<div class="wrapItemSpecialProgects" style="background:url(images/glass-first.png), url(/upload/iblock/460/gorod.png) no-repeat center center" id="bx_1373509569_10896">
+		<div class="pull-left prev-name hidden-xs">АВТОМОБИЛЬНАЯ ДОРОГА «ОБХОД ХАБАРОВСКА КМ 13 – КМ 42»</div><div class="pull-right text-right next-name hidden-xs">Worldskills Russia: участвуешь сегодня-востребован всегда</div>
+		<div class="SpecialProgectsLabel"></div>
+		<a href="/kms85/" target="_blank">
+			<div class="SpecialProgectsName">
+				Юбилей города Юности, или в 85 всё только начинается			</div>
+		</a>
+		<div class="SpecialProgectsPrev">Уникальные истории, люди, события и места инженерной столицы ДВ</div></a>
+		<a class="SpecialProgectsBttn hidden-xs" href="/kms85/" target="_blank">СМОТРЕТЬ</a>
+	</div>		
+		<div class="wrapItemSpecialProgects" style="background:url(images/glass-first.png), url(/upload/iblock/c8d/Bez_imeni_1.jpg) no-repeat center center" id="bx_1373509569_10890">
+		<div class="pull-left prev-name hidden-xs">Юбилей города Юности, или в 85 всё только начинается</div><div class="pull-right text-right next-name hidden-xs">Дальневосточный гектар: получить и развить</div>
+		<div class="SpecialProgectsLabel"></div>
+		<a href="/worldskills/" target="_blank">
+			<div class="SpecialProgectsName">
+				Worldskills Russia: участвуешь сегодня-востребован всегда			</div>
+		</a>
+		<div class="SpecialProgectsPrev">Истории успеха молодых профессионалов Хабаровского края</div></a>
+		<a class="SpecialProgectsBttn hidden-xs" href="/worldskills/" target="_blank">СМОТРЕТЬ</a>
+	</div>		
+		<div class="wrapItemSpecialProgects" style="background:url(images/glass-first.png), url(/upload/iblock/b98/gektar.png) no-repeat center center" id="bx_1373509569_10888">
+		<div class="pull-left prev-name hidden-xs">Worldskills Russia: участвуешь сегодня-востребован всегда</div><div class="pull-right text-right next-name hidden-xs">Развивай потенциал на «Точке кипения»</div>
+		<div class="SpecialProgectsLabel"></div>
+		<a href="/far-east-acres/" target="_blank">
+			<div class="SpecialProgectsName">
+				Дальневосточный гектар: получить и развить			</div>
+		</a>
+		<div class="SpecialProgectsPrev">Ответы на главные вопросы и истории участников проекта</div></a>
+		<a class="SpecialProgectsBttn hidden-xs" href="/far-east-acres/" target="_blank">СМОТРЕТЬ</a>
+	</div>		
+</div>
+</div>
+
+<script>
+	$(function(){
+		setTimeout(function() { 			
+			$('.specialProgectsSlider').owlCarousel({
+			    loop:true,
+			    nav:true,
+			    items:1,
+		        autoplay : true,
+		        autoplayTimeout : 5000,
+		        smartSpeed: 800,
+			    autoHeight:false
+			});
+		}, 200)
+	});
+</script>	</div>
+
+</div>
+
+	<div class="col-sm-12 hidden-xs lineSeparator"></div>
+	<div class="otherNews">
+		<div class="row">
+									
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol firstNews">
+					<div class="itemNewsWrap" id="bx_1527257483_32781">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/economics-and-business/32781/" class="imgWrap" style="background-image:url('/upload/iblock/bfa/analytics_3265840_1280.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/economics-and-business/">
+																						Экономика										</a>
+										<span class="itemTime" data-time="10.02.2021 11:45:00">10.02.2021 11:45:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/economics-and-business/32781/">Основы инвестирования – в прямой трансляции лекции от Сбера</a>
+									</div>
+									<div class="itemNewsPeviewText">Присоединяйтесь к трансляции 12 февраля в 14.00 по владивостокскому времени</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 11:45</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+
+				
+
+				
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol firstNews">
+					<div class="itemNewsWrap" id="bx_1527257483_32776">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/views/32776/" class="imgWrap" style="background-image:url('/upload/iblock/5ce/electrician_2755688_1920.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																					<span class="iconExclusive">Эксклюзив</span>
+																				<a href="/news/views/">
+																						Мнения										</a>
+										<span class="itemTime" data-time="10.02.2021 11:30:00">10.02.2021 11:30:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/views/32776/">Ремонт в квартире: уложиться за три дня</a>
+									</div>
+									<div class="itemNewsPeviewText">Председатель ТСЖ Марина Казанцева об идее ограничить ремонт в квартирах тремя днями в неделю</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 11:30</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+
+				
+
+				
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol firstNews">
+					<div class="itemNewsWrap" id="bx_1527257483_32759">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/economics-and-business/32759/" class="imgWrap" style="background-image:url('/upload/iblock/d0b/vkhabarovskomkraepostarayutsyasbittsenynapodorozhavshieprodukty_1_.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/economics-and-business/">
+																																				<i class="icons iconFlagG"></i>
+																																		Экономика										</a>
+										<span class="itemTime" data-time="10.02.2021 11:00:00">10.02.2021 11:00:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/economics-and-business/32759/">Хабаровские торговые сети сдерживают цены на подсолнечное масло</a>
+									</div>
+									<div class="itemNewsPeviewText">В магазинах литровая бутылка масла обойдётся в 110 - 130 рублей</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 11:00</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+
+				
+
+				
+							</div><div class="col-sm-12 hidden-xs lineSeparator"></div><div class="row">				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol firstNews">
+					<div class="itemNewsWrap" id="bx_1527257483_32773">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/sport/32773/" class="imgWrap" style="background-image:url('/upload/iblock/53d/SKA.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/sport/">
+																						Спорт										</a>
+										<span class="itemTime" data-time="10.02.2021 10:30:00">10.02.2021 10:30:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/sport/32773/">«СКА-Хабаровск» в контрольном матче разошелся миром с «Текстильщиком»</a>
+									</div>
+									<div class="itemNewsPeviewText">Армейцы вели в счете до 70 минуты, но затем пропустили два мяча</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 10:30</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+
+				
+
+				
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol firstNews">
+					<div class="itemNewsWrap" id="bx_1527257483_32775">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/incident/32775/" class="imgWrap" style="background-image:url('/upload/iblock/f79/khabarovskomueksgubernatoruishaevuprodliliarest.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/incident/">
+																																				<i class="icons iconFlagG"></i>
+																																		Происшествия										</a>
+										<span class="itemTime" data-time="10.02.2021 10:00:00">10.02.2021 10:00:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/incident/32775/">Прокуратура запросила для Виктора Ишаева 7 лет колонии</a>
+									</div>
+									<div class="itemNewsPeviewText">Экс-губернатор Хабаровского края обвиняется в растрате средств «Роснефти»</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 10:00</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+
+				
+
+				
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 newsCol firstNews">
+					<div class="itemNewsWrap" id="bx_1527257483_32750">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/society/32750/" class="imgWrap" style="background-image:url('/upload/iblock/339/osago_5513377_1280.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/society/">
+																						Общество										</a>
+										<span class="itemTime" data-time="10.02.2021 09:30:00">10.02.2021 09:30:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/society/32750/">Хабаровчане спешат переоформлять договоры ОСАГО</a>
+									</div>
+									<div class="itemNewsPeviewText">Ажиотаж вызван новыми правилами прохождения техосмотра</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 09:30</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+
+				
+
+						</div>
+	</div>
+	
+		
+		
+		<div class="col-sm-12 hidden-xs lineSeparator"></div>
+
+	
+
+
+	<div class="smallNews">
+		<div class="row">
+							
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32772">
+
+													<div class="itemNews videoNews">
+
+								<a href="/news/incident/32772/" class="imgWrap" style="background-image: url('/images/glass2.png'), url('/upload/iblock/3a9/samolyetizkhabarovskapopalvavariyunakurilakh.jpeg');">
+									<i class="icons iconPlay"></i>
+								</a>
+
+								<div class="itemVideoTextWrap">
+									<div class="itemSection">
+																				<a href="/news/incident/">
+											<i class="icons iconVideo"></i>Происшествия										</a>
+										<span class="itemTime" data-time="10.02.2021 09:00:00">10.02.2021 09:00:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/incident/32772/">Самолёт из Хабаровска попал в аварию на Курилах</a>
+									</div>
+									<div class="itemNewsPeviewText">Во время жёсткой посадки военного борта обошлось без пострадавших</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 09:00</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+				
+							
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32770">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/health/32770/" class="imgWrap marker3" style="background-image:url('/upload/iblock/755/3779aktivnykhdannyeocovidvkhabarovskomkraena9fevralya.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/health/">
+																						Здоровье										</a>
+										<span class="itemTime" data-time="10.02.2021 08:00:00">10.02.2021 08:00:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/health/32770/">3 779 «активных»: данные о COVID в Хабаровском крае на 9 февраля</a>
+									</div>
+									<div class="itemNewsPeviewText">Обнаружено 178 новых инфицированных, 301 пациент вылечился</div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 08:00</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+				
+							
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32741">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/society/32741/" class="imgWrap marker3" style="background-image:url('/upload/iblock/10f/goroskopna10fevralyabliznetsysegodnyamogutdatkhoroshiysovet.jpeg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/society/">
+																						Общество										</a>
+										<span class="itemTime" data-time="10.02.2021 00:05:00">10.02.2021 00:05:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/society/32741/">Гороскоп на 10 февраля: Близнецы сегодня могут дать хороший совет</a>
+									</div>
+									<div class="itemNewsPeviewText"></div>
+									<div class="itemNewsInfo">
+										<span>10 февраля 2021, 00:05</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+				
+							
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32757">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/sport/32757/" class="imgWrap marker3" style="background-image:url('/upload/iblock/272/komsomolskiystadionavangardgotovitsyakrekonstruktsii.jpeg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/sport/">
+																						Спорт										</a>
+										<span class="itemTime" data-time="09.02.2021 20:00:00">09.02.2021 20:00:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/sport/32757/">Комсомольский стадион «Авангард» готовится к реконструкции</a>
+									</div>
+									<div class="itemNewsPeviewText">Стоимость работ оценивается в 670 млн рублей</div>
+									<div class="itemNewsInfo">
+										<span>09 февраля 2021, 20:00</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+				
+							</div><div class="col-sm-12 hidden-xs lineSeparator"></div><div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32754">
+
+													<div class="itemNews videoNews">
+
+								<a href="/news/economics-and-business/32754/" class="imgWrap" style="background-image: url('/images/glass2.png'), url('/upload/iblock/999/zhitelikorfovskogovystradalidolgozhdannuyushkolu.jpeg');">
+									<i class="icons iconPlay"></i>
+								</a>
+
+								<div class="itemVideoTextWrap">
+									<div class="itemSection">
+																				<a href="/news/economics-and-business/">
+											<i class="icons iconVideo"></i>Экономика										</a>
+										<span class="itemTime" data-time="09.02.2021 19:30:00">09.02.2021 19:30:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/economics-and-business/32754/">Жители Корфовского «выстрадали» долгожданную школу</a>
+									</div>
+									<div class="itemNewsPeviewText">Новое учебное заведение позволит с комфортом учиться 500 школьникам</div>
+									<div class="itemNewsInfo">
+										<span>09 февраля 2021, 19:30</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+				
+							
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32753">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/economics-and-business/32753/" class="imgWrap marker3" style="background-image:url('/upload/iblock/fac/dobyvayushchimmintayrybakamkhabarovskogokrayaobeshchalipodumatnadrybnoyinterventsiey.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																					<span class="iconExclusive">Эксклюзив</span>
+																				<a href="/news/economics-and-business/">
+																																													Экономика										</a>
+										<span class="itemTime" data-time="09.02.2021 19:00:00">09.02.2021 19:00:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/economics-and-business/32753/">Рыбакам Хабаровского края могут предложить «рыбную интервенцию»</a>
+									</div>
+									<div class="itemNewsPeviewText">Также перерабатывающие предприятия готовятся к проверке китайскими представителями</div>
+									<div class="itemNewsInfo">
+										<span>09 февраля 2021, 19:00</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+				
+							
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32751">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/in-areas-of-the-province/32751/" class="imgWrap marker3" style="background-image:url('/upload/iblock/5e9/okhotchanevyyasnyayutsudbunaydennoynaberegumoryamedalizaotvagu.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																					<span class="iconExclusive">Эксклюзив</span>
+																				<a href="/news/in-areas-of-the-province/">
+																						Наш край										</a>
+										<span class="itemTime" data-time="09.02.2021 18:30:00">09.02.2021 18:30:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/in-areas-of-the-province/32751/">Охотчане выясняют судьбу найденной на берегу моря медали «За отвагу»</a>
+									</div>
+									<div class="itemNewsPeviewText">Местные журналисты уже смогли установить владельца награды и ищут его родных</div>
+									<div class="itemNewsInfo">
+										<span>09 февраля 2021, 18:30</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+				
+							
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 newsCol">
+					<div class="itemNewsWrap" id="bx_1527257483_32752">
+
+													<div class="itemNews defNewsPhoto">
+								<a href="/news/in-areas-of-the-province/32752/" class="imgWrap marker3" style="background-image:url('/upload/iblock/cd9/vverkhnebureinskomrayoneotremontiruyutvneskolkorazbolshekrysh.jpg');"></a>
+								<div class="itemNewsTextWrap">
+									<div class="itemSection">
+																				<a href="/news/in-areas-of-the-province/">
+																						Наш край										</a>
+										<span class="itemTime" data-time="09.02.2021 18:00:00">09.02.2021 18:00:00</span>
+									</div>
+									<div class="itemNewsHead">
+										<a href="/news/in-areas-of-the-province/32752/">В Верхнебуреинском районе отремонтируют в несколько раз больше крыш </a>
+									</div>
+									<div class="itemNewsPeviewText">Увеличено и финансирование<br />
+</div>
+									<div class="itemNewsInfo">
+										<span>09 февраля 2021, 18:00</span>
+																			</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+
+
+						</div>
+	</div>
+
+
+	<div class="col-sm-12 hidden-xs lineSeparator"></div>
+	<div class="row mainNewsWrap lastNewsWrap">
+					
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 newsCol ">
+						<div class="itemNewsWrap" id="bx_1527257483_32755">
+									<div class="itemNews videoNews">
+												<div class="itemVideoTextWrap">
+							<div class="itemSection">
+																<a href="/news/health/">
+									<i class="icons iconVideo"></i>Здоровье								</a>
+								<span class="itemTime" data-time="09.02.2021 17:30:00">09.02.2021 17:30:00</span>
+							</div>
+							<div class="itemNewsHead">
+								<a href="/news/health/32755/">Власти Хабаровского края объяснили, когда можно будет снять маски</a>
+							</div>
+
+							<div class="itemNewsPeviewText">Заболеваемость COVID-19 снижается, но ситуация остаётся напряжённой</div>
+
+							<div class="itemNewsInfo">
+								<span>09 февраля 2021, 17:30</span>
+															</div>
+						</div>
+					</div>
+							</div>
+
+
+			
+					
+						<div class="itemNewsWrap" id="bx_1527257483_32749">
+									<div class="itemNews defNewsPhoto">
+												<div class="itemNewsTextWrap">
+							<div class="itemSection">
+																<a href="/news/economics-and-business/">
+																														<i class="icons iconFlagG"></i>
+																												Экономика								</a>
+								<span class="itemTime" data-time="09.02.2021 17:00:00">09.02.2021 17:00:00</span>
+							</div>
+							<div class="itemNewsHead">
+								<a href="/news/economics-and-business/32749/">Лесозаготовителям Хабаровского края дали шанс на модернизацию бизнеса</a>
+							</div>
+							<div class="itemNewsPeviewText">Порядка 25 предприятий обратились за льготным займом, чтобы перепрофилировать производство</div>
+							<div class="itemNewsInfo">
+								<span>09 февраля 2021, 17:00</span>
+															</div>
+						</div>
+					</div>
+							</div>
+
+
+							</div>
+			
+					
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 newsCol firstNews">
+						<div class="itemNewsWrap" id="bx_1527257483_32744">
+									<div class="itemNews photoNews">
+													<a href="/news/tourism/32744/" class="imgWrap" style="background-image:url('/upload/iblock/b31/ledyanyegribybureyskogovodokhranilishchanabirayutpopulyarnostuturistov.jpg');"></a>
+												<div class="itemPhotoTextWrap">
+							<div class="itemSection">
+																<a href="/news/tourism/">
+									<i class="icons iconPhoto"></i>Туризм								</a>
+								<span class="itemTime" data-time="09.02.2021 16:30:00">09.02.2021 16:30:00</span>
+							</div>
+							<div class="itemNewsHead">
+								<a href="/news/tourism/32744/">Ледяные грибы Бурейского водохранилища набирают популярность у туристов</a>
+							</div>
+
+							<div class="itemNewsPeviewText">Люди проезжают сотни километров, чтобы увидеть чудо замёрзшей воды</div>
+
+							<div class="itemNewsInfo">
+								<span>09 февраля 2021, 16:30</span>
+															</div>
+						</div>
+					</div>
+							</div>
+
+
+							</div>
+			
+			</div>
+			<div style="clear: both;"></div>
+			
+<script>
+	HKS.filterID = ['32784','32788','32779','32782','32783','32780','32777','32781','32776','32759','32773','32775','32750','32772','32770','32741','32757','32754','32753','32751','32752','32755','32749','32744'];
+</script>
+
+<div class="resultLoadNews">
+	<div class="col-sm-12 hidden-xs lineSeparator"></div>
+	<div style="clear: both;"></div>
+	<a href="" data-section="0" class="loadMoreNews">Показать ещё</a>
+</div>
+
+	</div>
+</div>
+
+<div id="news_vote_component" style="">
+	<div id="comp_e3e40e7fae5ebf89f4f8179b208b2085"></div></div>
+<script type="text/javascript">
+	$(document).ready(function(){
+	     var get_html = $("#news_vote_component div:first").clone(true);
+	     $("#news_vote").html(get_html);
+	     $("#news_vote_component").empty();
+	});
+</script>
+
+</div>
+
+<div class="subscribeWrap greenBg">
+	<div class="container hidden-xs">
+		<div class="public_services_menu_pay greenBg visible-xs">
+		<br>
+		<!-- записаться -->
+		<div class="public_services_menu_Enroll">
+			
+
+<div class="pay_menu">
+
+				<div class="PayBtn">
+					<div class="btn_grup">
+				      <button type="button" class="btn pay">Госуслуги <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+				    </div>
+			    </div>
+	
+	<ul class="left-menu" style="display:none">
+	
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10001" onclick="yaCounter40434055.reachGoal('fine')";>Оплата Штрафов ГИБДД</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10373" onclick="yaCounter40434055.reachGoal('house')";>Оплата услуг ЖКХ</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10051" onclick="yaCounter40434055.reachGoal('pass')";>Получить загранпаспорт</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10056" onclick="yaCounter40434055.reachGoal('driv')";>Получить права</a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/10066" onclick="yaCounter40434055.reachGoal('doc')";>Запись на прием к врачу </a>
+			</li>
+				
+						<li>
+					<a target="_blank" href="https://www.gosuslugi.ru/category/learning" onclick="yaCounter40434055.reachGoal('child')";>Запись в детский сад/школу</a>
+			</li>
+				
+		
+	</ul>
+
+	</div>		</div>
+
+			</div>
+</div>
+
+<div class="footerWrap">
+	<div class="container">
+		<div class="footerContainer">
+			<div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-6 hidden-xs footerCol">
+					<div class="logoWrap">
+																			<img src="/bitrix/templates/new.todaykhv.ru/images/logo/logotype_anim_time-12.00.png?p=2" alt="Хабаровский край сегодня - информационное агентство" class="img-responsive">
+											</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 footerCol visible-sm">
+					<div class="footerMenuWrap">
+						
+<ul class="footer-menu list-inline">
+			<li><a href="/contacts/" target="_blank">Контакты</a></li>
+	
+			<li><a href="/advertisers/" target="_blank">Рекламодателям</a></li>
+	
+
+</ul>
+					</div>
+					<div class="socialGrpoupWrap hidden-xs">
+						<ul class="list-inline">
+	<li><a href="https://www.facebook.com/todaykhv/" target="_blank" class="fb"></a></li>
+	<li><a href="https://twitter.com/todaykhv" target="_blank" class="tw"></a></li>
+	<li><a href="https://vk.com/todaykhv" target="_blank" class="vk"></a></li>
+	<li><a href="https://t.me/todaykhv" target="_blank" class="tg"></a></li>	
+	<li><a href="https://ok.ru/group/55003256520704" target="_blank" class="ok"></a></li>
+    <li><a href="https://www.instagram.com/todaykhv/" target="_blank" class="inst"></a></li>
+</ul>					</div>
+				</div>
+				<div class="col-lg-6 col-md-6 col-sm-12 footerCol podpiska">
+					<!-- Подписаться -->
+					 <div id="comp_8ab8b05be8798fbda20dec990bb9bf27"><div class="subscribeContainer">
+<div class="bx-subscribe"  id="sender-subscribe">
+<!--'start_frame_cache_sender-subscribe'-->	
+	<script>
+		BX.ready(function()
+		{
+			BX.bind(BX("bx_subscribe_btn_sljzMT"), 'click', function() {
+				setTimeout(mailSender, 250);
+				return false;
+			});
+		});
+
+		function mailSender()
+		{
+			setTimeout(function() {
+				var btn = BX("bx_subscribe_btn_sljzMT");
+				if(btn)
+				{
+					var btn_span = btn.querySelector("span");
+					var btn_subscribe_width = btn_span.style.width;
+					BX.addClass(btn, "send");
+					btn_span.outterHTML = "<span><i class='fa fa-check'></i> ГОТОВО</span>";
+					if(btn_subscribe_width)
+						btn.querySelector("span").style["min-width"] = btn_subscribe_width+"px";
+				}
+			}, 400);
+		}
+
+		$(document).ready(function() {
+			$("#activateSubscribe").change(function() {
+				if ($(this).is(":checked")) {
+					if(!$("input[name=SENDER_SUBSCRIBE_NAME]").val()) {
+    					$('.btn-subscribe').removeClass("disabled");
+    					$('.btn-subscribe').prop('disabled', false);
+					}
+				}
+				else {
+					$('.btn-subscribe').addClass("disabled");
+					$('.btn-subscribe').prop('disabled', true);
+				}
+			});
+
+			$("input[name=SENDER_SUBSCRIBE_NAME]").change(function() {
+				console.log('123');
+				if (!$(this).val()) {
+					$('.btn-subscribe').removeClass("disabled");
+					$('.btn-subscribe').prop('disabled', false);
+				}
+				else {
+					$('.btn-subscribe').addClass("disabled");
+					$('.btn-subscribe').prop('disabled', true);
+				}
+			});
+		});
+		
+		
+	</script>
+
+	
+<form role="form" method="post" action="/index.php"  onsubmit="BX('bx_subscribe_btn_sljzMT').disabled=true;"><input type="hidden" name="bxajaxid" id="bxajaxid_8ab8b05be8798fbda20dec990bb9bf27_8BACKi" value="8ab8b05be8798fbda20dec990bb9bf27" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_8BACKi(){
+	if (BX('bxajaxid_8ab8b05be8798fbda20dec990bb9bf27_8BACKi'))
+	{
+		var obForm = BX('bxajaxid_8ab8b05be8798fbda20dec990bb9bf27_8BACKi').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_8ab8b05be8798fbda20dec990bb9bf27', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_8BACKi);
+}
+if (BX('bxajaxid_8ab8b05be8798fbda20dec990bb9bf27_8BACKi'))
+	_processform_8BACKi();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_8BACKi);
+</script>
+		<input type="hidden" name="sessid" id="sessid" value="8819dd63bd17e12b37f48bec9412916c" />		<input type="hidden" name="sender_subscription" value="add">
+		
+				<h3 class="subscribeHead">Подписка</h3>
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="subscribeText visible-xs">
+					Доставка новостей на эл. почту <br class="visible-xs">без спама и рекламы				</div>
+				
+								<div class="bx-input-group bx-input-group-name">
+					<input class="bx-form-control" type="text" name="SENDER_SUBSCRIBE_NAME" value="" title="Имя" placeholder="Имя">
+				</div>
+				
+				<div class="bx-input-group bx-input-group-email">
+					<input class="bx-form-control" type="email" name="SENDER_SUBSCRIBE_EMAIL" value="" title="Электронная почта" placeholder="Электронная почта">
+				</div>
+
+				<div class="subscribeText hidden-xs">
+					Доставка новостей на эл. почту <br class="visible-xs">без спама и рекламы				</div>
+				
+						<div class="activateSubscribe">
+							<input type="checkbox" id="activateSubscribe"><label for="activateSubscribe">Оформляя подписку, вы соглашаетесь с <a class="showContract" href="/upload/medialibrary/800/Soglashenie-na-obrabotku-PD.pdf" target="_blank">обработкой персональных данных</a>.</label>
+						</div>
+
+								<div class="bx_subscribe_checkbox_container_wrap hidden">
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_11" value="11" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_11">Новостная рассылка</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_1" value="1" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_1">Политика</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_2" value="2" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_2">Экономика и бизнес</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_3" value="3" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_3">Общество</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_4" value="4" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_4">Происшествия</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_5" value="5" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_5">Культура</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_6" value="6" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_6">Спорт</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_7" value="7" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_7">В районах края</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_13" value="13" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_13">Здоровье</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_14" value="14" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_14">Туризм</label>
+					</div>
+										<div class="bx_subscribe_checkbox_container active">
+						<input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_15" value="15" checked>
+						<label for="SENDER_SUBSCRIBE_RUB_ID_15">Мнения</label>
+					</div>
+										<div style="clear: both;"></div>
+				</div>
+				
+				<div class="bx_subscribe_submit_container">
+					<button class="sender-btn btn-subscribe todayBnt disabled" id="bx_subscribe_btn_sljzMT" disabled><span>Подписаться</span></button>
+				</div>
+			</div>
+		</div>
+	</form>
+	
+	<script>
+		$(function() {
+			setTimeout(function() {
+				$('.bx_subscribe_checkbox_container input').styler();
+				}, 100);
+
+			
+			$(".bx_subscribe_checkbox_container").on( "click", "label, div", function() {
+				var obj = $(this).parent();
+				if(obj.hasClass("active"))
+				{
+					obj.removeClass("active");
+				}
+				else
+				{
+					obj.addClass("active");
+				}
+			});
+		});
+	</script>
+
+<!--'end_frame_cache_sender-subscribe'--></div>
+</div></div>				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 footerCol hidden-sm">
+					<div class="footerMenuWrap">
+						
+<ul class="footer-menu list-inline">
+			<li><a href="/contacts/" target="_blank">Контакты</a></li>
+	
+			<li><a href="/advertisers/" target="_blank">Рекламодателям</a></li>
+	
+
+</ul>
+					</div>
+					<div class="socialGrpoupWrap">
+						<ul class="list-inline">
+	<li><a href="https://www.facebook.com/todaykhv/" target="_blank" class="fb"></a></li>
+	<li><a href="https://twitter.com/todaykhv" target="_blank" class="tw"></a></li>
+	<li><a href="https://vk.com/todaykhv" target="_blank" class="vk"></a></li>
+	<li><a href="https://t.me/todaykhv" target="_blank" class="tg"></a></li>	
+	<li><a href="https://ok.ru/group/55003256520704" target="_blank" class="ok"></a></li>
+    <li><a href="https://www.instagram.com/todaykhv/" target="_blank" class="inst"></a></li>
+</ul>					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footerInfo">
+			<div class="copyrightWrap visible-xs">
+				&copy; 2021 Хабаровский край сегодня			</div>
+			<div class="rasa visible-xs">Сайт разработан в <a href="http://rasa.pro" target="_blank">RASA</a></div>
+			<div class="row">
+	<div class="col-md-6">
+ <br>
+		 Сетевое издание «Информационное агентство «Хабаровский край сегодня». Номер свидетельства ЭЛ №ФС 77-68538 от 31.01.2017, выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор). Учредитель: АНО ЦПСИ «Открытый регион», 680000, Хабаровск, ул. Дзержинского, д. 36, Главный редактор:&nbsp;Оксана Алексеевна Добротворская, электронный адрес: <a href="mailto:hks@todaykhv.ru">hks@todaykhv.ru</a><br>
+	</div>
+	<div class="col-md-6">
+ <br>
+		 Данный сайт содержит информационную продукцию категории 18+. При перепечатке либо ином использовании текстовых материалов с настоящего сайта гиперссылка на источник обязательна. Фотографии, видеоматериалы, иные иллюстрации могут быть использованы только с письменного согласия автора (правообладателя) и с обязательным указанием имени автора и источника заимствования.<br>
+	</div>
+</div>
+ <br>			<div class="copyrightWrap hidden-xs">
+				&copy; 2021 Хабаровский край сегодня			</div>
+
+			<!-- Yandex.Metrika informer -->
+			<div class="YAinformer">
+				<a href="https://metrika.yandex.ru/stat/?id=40434055&amp;from=informer" target="_blank" rel="nofollow">
+					<img src="https://informer.yandex.ru/informer/40434055/3_0_C5FCC2FF_A5DCA2FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="40434055" data-lang="ru" />
+				</a>
+			</div>
+			<!-- /Yandex.Metrika informer -->
+
+			<div class="rasa hidden-xs">Сайт разработан в <a href="http://rasa.pro" target="_blank">RASA</a></div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+
+<div class="searchWrap">
+	<div class="container">
+	 <div id="title-search" class="bx-searchtitle">
+	<form action="/search/">
+		<div class="bx-input-group">
+			<input id="title-search-input" type="text" name="q" value="" placeholder="Введите поисковый запрос" autocomplete="off" class="bx-form-control"/>
+			<span class="bx-input-group-btn">
+				<button class="btn btn-default" type="submit" name="s"><i class="fa fa-search"></i></button>
+			</span>
+		</div>
+	</form>
+</div>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/',
+			'CONTAINER_ID': 'title-search',
+			'INPUT_ID': 'title-search-input',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+
+	</div>
+</div>
+
+<script> // Новогодний таймер
+function getTimeRemaining(endtime) {
+	  var t = Date.parse(endtime) - Date.parse(new Date());
+	  var seconds = Math.floor((t / 1000) % 60);
+	  var minutes = Math.floor((t / 1000 / 60) % 60);
+	  var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+	  var days = Math.floor(t / (1000 * 60 * 60 * 24));
+	  return {
+	    'total': t,
+	    'days': days,
+	    'hours': hours,
+	    'minutes': minutes,
+	    'seconds': seconds
+	  };
+	}
+
+	function initializeClock(id, endtime) {
+	  var clock = document.getElementById(id);
+	  var daysSpan = clock.querySelector('.days');
+	  var hoursSpan = clock.querySelector('.hours');
+	  var minutesSpan = clock.querySelector('.minutes');
+	  var secondsSpan = clock.querySelector('.seconds');
+
+	  function updateClock() {
+	    var t = getTimeRemaining(endtime);
+
+	    daysSpan.innerHTML = t.days;
+	    hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+	    minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+	    secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+
+	    if (t.total <= 0) {
+	      clearInterval(timeinterval);
+	    }
+	  }
+
+	  updateClock();
+	  var timeinterval = setInterval(updateClock, 1000);
+	}
+
+	var deadline="January 01 2020 00:00:00 GMT+1000"; //for Vladivostok
+	//initializeClock('clockdiv', deadline); #Task #16670
+</script>
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(40434055, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/40434055" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '341681159610812');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=341681159610812&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120296737-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120296737-1');
+</script>
+
+</body>
+</html>

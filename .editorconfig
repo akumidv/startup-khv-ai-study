@@ -1,0 +1,32 @@
+# EditorConfig is awesome: http://EditorConfig.org или http://habrahabr.ru/post/220131/
+
+# Корневой файл EditorConfig
+root = true
+
+# Для всех файлов используем unix-совместимые переносы строк, перенос в конце файла
+[*]
+end_of_line = lf
+insert_final_newline = false
+# Для всех файлов используем кодировку utf-8
+charset = utf-8
+
+# Для JavaScript файлов отспуы в виде 2х пробелов, убираем пробелы из концов строк
+#[*.js]
+indent_style = space
+indent_size = 2
+trim_trailing_whitespace = true
+
+# Для JSON файлов отспуы в виде 2х пробелов
+#[*.js]
+indent_style = space
+indent_size = 2
+
+# Документационные файлы не убираем пробелы из концов строк.
+[*.md]
+trim_trailing_whitespace = false
+
+# Для Python файлов отспуы в виде 4х пробелов, убираем пробелы из концов строк
+#[*.py]
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
