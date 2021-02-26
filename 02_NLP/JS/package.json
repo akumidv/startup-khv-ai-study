@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "fasttext": "^1.0.0",
     "natural": "^4.0.0",
     "talisman": "^1.1.4"
   }

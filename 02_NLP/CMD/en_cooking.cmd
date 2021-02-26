@@ -12,7 +12,7 @@
 @echo.
 @echo Смотрим результаты
 @echo "__label__equipment __label__cast-iron How do I fix a cast iron pot that was heated empty for hours?"
-.\fasttext_exe\fasttext.exe predict .\model\res_en_model.bin .\fasttext_tutorial\cooking.valid2
+.\fasttext_exe\fasttext.exe predict .\model\res_en_model.bin .\fasttext_tutorial\cooking.valid2 3
 @pause
 
 @echo.
@@ -25,7 +25,7 @@
 @echo.
 @echo Смотрим результаты 100 эпох
 @echo "__label__equipment __label__cast-iron How do I fix a cast iron pot that was heated empty for hours?"
-.\fasttext_exe\fasttext.exe predict .\model\res_en_model_100.bin .\fasttext_tutorial\cooking.valid2
+.\fasttext_exe\fasttext.exe predict .\model\res_en_model_100.bin .\fasttext_tutorial\cooking.valid2 3
 @pause
 
 @echo.

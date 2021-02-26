@@ -1,16 +1,16 @@
-__label__greet Привет
-__label__greet Здравствуй
-__label__greet Добрый день
-__label__greet Добрый вечер
-__label__greet Здравствуйте
-__label__greet Приветствую
-__label__greet Здорова
-__label__greet Доброе утро
-__label__byby Пока
-__label__byby До встречи
-__label__byby До свидания
-__label__byby Прощай
-__label__byby Еще увидимся
+__label__greet привет
+__label__greet здравствуй
+__label__greet добрый день
+__label__greet добрый вечер
+__label__greet здравствуйте
+__label__greet приветствую
+__label__greet здорова
+__label__greet доброе утро
+__label__byby пока
+__label__byby до встречи
+__label__byby до свидания
+__label__byby прощай
+__label__byby еще увидимся
 __label__byby скоро увидимся
 __label__byby до новых встречь
-__label__byby Дотвиданья
+__label__byby дотвиданья
