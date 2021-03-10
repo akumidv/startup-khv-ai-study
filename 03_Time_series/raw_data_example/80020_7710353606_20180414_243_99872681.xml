@@ -1,0 +1,1496 @@
+<?xml version="1.0"?>
+<message class="80020" version="2" number="256">
+	<datetime>
+		<daylightsavingtime>2</daylightsavingtime>
+		<day>20180414</day>
+		<timestamp>20180503091924</timestamp>
+	</datetime>
+	<sender>
+		<name>Umbrella Corp</name>
+		<inn>7766553322</inn>
+	</sender>
+	<area timezone="1">
+		<name>Umbrella Corp (верх+ЦОД)</name>
+		<inn>7766553322</inn>
+		<measuringpoint code="9987268111202774" name="11202774" serial="11202774">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">83.60</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">83.40</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">83.60</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">83.80</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">84.00</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">85.20</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">84.60</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">83.20</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">84.00</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">81.60</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">80.60</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">78.80</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">78.40</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">79.40</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">83.20</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">83.20</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">85.80</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">85.40</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">73.80</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">75.20</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">74.40</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">74.20</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">75.20</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">75.20</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">77.40</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">78.20</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">78.20</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">78.60</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">78.60</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">78.00</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">78.00</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">76.00</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">78.00</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">78.00</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">78.40</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">76.60</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">75.80</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">75.80</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">75.80</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">75.00</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">76.40</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">75.00</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">67.40</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">64.20</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">64.20</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">64.20</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">64.40</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">64.20</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="9987268111202786" name="11202786" serial="11202786">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">100.80</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">100.80</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">100.20</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">100.20</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">99.80</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">98.80</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">98.20</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">100.00</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">100.80</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">100.60</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">97.40</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">97.40</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">97.20</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">96.20</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">96.40</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">97.60</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">97.80</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">100.00</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">117.80</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">115.80</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">115.20</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">114.40</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">113.80</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">115.20</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">115.20</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">115.80</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">115.00</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">115.80</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">115.60</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">115.00</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">114.20</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">116.00</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">115.60</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">116.20</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">115.20</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">113.60</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">113.20</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">113.60</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">114.60</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">114.20</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">114.00</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">112.20</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">112.40</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">112.60</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">113.80</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">114.00</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">114.00</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">114.00</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="9987268111202793" name="11202793" serial="11202793">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">116.85</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">117.90</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">117.60</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">118.80</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">115.35</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">116.25</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">117.15</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">120.75</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">121.20</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">118.35</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">118.80</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">117.45</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">119.55</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">122.10</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">120.90</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">118.80</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">120.75</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">118.95</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">122.25</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">121.95</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">121.05</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">121.50</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">120.15</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">121.05</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">123.75</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">122.25</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">121.05</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">120.90</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">121.05</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">122.25</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">123.30</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">121.50</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">120.15</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">121.35</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">123.30</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">122.40</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">121.80</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">118.65</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">120.75</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">120.45</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">121.35</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">121.20</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">118.20</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">119.85</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">118.95</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">122.70</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">120.90</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">121.20</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="9987268113150859" name="13150859" serial="13150859">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">97.80</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">98.00</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">99.20</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">96.20</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">99.80</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">100.40</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">97.80</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">98.40</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">97.40</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">92.80</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">86.20</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">85.60</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">86.60</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">87.60</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">87.40</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">95.80</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">103.00</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">109.60</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">115.60</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">115.60</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">117.20</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">119.00</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">120.20</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">121.40</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">118.00</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">116.00</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">118.60</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">108.60</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">110.60</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">107.60</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">107.80</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">106.40</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">104.40</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">106.20</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">108.20</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">108.60</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">104.60</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">108.00</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">108.80</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">107.40</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">104.20</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">99.40</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">95.80</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">91.20</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">89.80</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">87.40</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">86.40</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">88.60</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="9987268113150871" name="13150871" serial="13150871">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">116.40</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">114.75</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">115.05</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">113.40</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">113.40</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">114.75</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">115.65</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">115.65</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">114.75</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">111.45</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">111.30</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">113.40</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">115.20</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">115.05</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">113.25</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">112.95</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">115.50</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">117.00</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">115.65</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">116.25</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">113.70</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">115.05</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">116.85</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">116.10</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">116.25</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">114.75</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">113.70</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">115.95</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">115.35</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">116.55</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">114.45</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">114.15</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">115.80</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">115.80</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">116.10</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">114.75</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">116.10</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">115.35</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">117.00</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">116.25</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">115.35</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">115.05</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">113.10</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">115.80</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">115.65</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">114.60</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">113.55</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">113.85</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="9987268113150883" name="13150883" serial="13150883">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">28.00</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">26.40</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">26.20</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">26.00</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">26.00</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">25.20</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">25.20</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">24.80</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">25.40</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">25.20</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">22.00</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">19.40</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">19.80</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">20.20</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">21.60</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">28.20</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">29.60</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">29.60</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">30.00</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">31.60</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">33.40</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">33.20</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">35.60</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">34.60</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">34.40</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">33.00</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">37.20</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">34.40</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">36.40</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">36.00</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">32.40</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">30.60</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">31.20</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">29.60</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">28.60</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">28.00</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">26.40</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">25.20</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">24.60</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">27.40</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">30.00</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">28.60</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">27.60</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">28.00</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">27.40</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">27.60</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">27.60</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">27.40</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="9987268118424965" name="18424965" serial="18424965">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">87.38</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">85.63</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">85.88</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">87.25</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">84.75</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">86.88</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">86.00</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">85.75</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">87.38</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">84.50</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">86.75</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">86.25</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">84.88</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">87.38</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">85.63</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">85.88</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">87.50</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">66.75</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">68.63</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">68.50</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">67.13</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">69.88</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">67.38</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">68.38</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">69.25</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">66.63</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">69.13</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">67.75</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">67.25</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">69.50</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">66.63</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">68.13</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">68.38</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">66.63</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">69.13</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">67.13</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">66.88</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">68.75</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">66.25</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">67.88</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">67.63</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">66.13</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">68.25</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">66.88</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">66.00</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">69.38</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">66.25</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">67.75</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="9987268118425010" name="18425010" serial="18425010">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">59.38</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">58.75</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">58.63</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">58.13</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">58.38</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">57.63</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">57.75</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">57.75</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">57.63</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">57.75</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">57.38</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">57.75</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">57.50</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">57.88</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">57.88</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">58.25</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">59.13</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">59.75</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">61.50</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">63.75</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">70.88</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">73.13</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">78.38</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">76.88</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">80.25</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">74.00</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">74.25</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">74.88</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">75.00</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">75.25</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">75.38</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">75.63</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">76.00</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">75.88</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">76.13</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">75.50</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">75.25</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">74.88</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">74.75</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">74.25</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">74.13</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">73.88</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">73.50</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">73.38</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">73.25</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">72.75</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">72.88</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">72.88</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="9987268118425008" name="18425008" serial="18425008">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">1.50</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">1.25</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">1.13</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">1.13</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">0.88</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">0.88</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">0.75</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">0.75</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">0.75</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">0.88</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">1.00</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">0.75</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">0.75</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">0.88</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">0.88</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">1.25</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">1.38</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">1.75</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">2.50</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">5.13</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">14.00</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">15.00</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">16.75</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">19.75</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">20.25</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">16.75</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">18.50</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">18.75</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">18.88</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">19.00</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">19.25</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">19.38</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">19.25</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">19.38</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">19.13</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">19.00</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">18.75</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">18.50</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">18.13</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">18.00</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">17.75</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">15.88</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">15.88</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">15.75</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">13.38</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">16.25</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">14.50</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">15.38</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="9987268118424942" name="18424942" serial="18424942">
+			<measuringchannel code="01" desc="акт. прием">
+				<period start="0000" end="0030">
+					<value status="0">14.38</value>
+				</period>
+				<period start="0030" end="0100">
+					<value status="0">14.38</value>
+				</period>
+				<period start="0100" end="0130">
+					<value status="0">14.38</value>
+				</period>
+				<period start="0130" end="0200">
+					<value status="0">14.38</value>
+				</period>
+				<period start="0200" end="0230">
+					<value status="0">14.38</value>
+				</period>
+				<period start="0230" end="0300">
+					<value status="0">14.75</value>
+				</period>
+				<period start="0300" end="0330">
+					<value status="0">14.63</value>
+				</period>
+				<period start="0330" end="0400">
+					<value status="0">14.63</value>
+				</period>
+				<period start="0400" end="0430">
+					<value status="0">14.50</value>
+				</period>
+				<period start="0430" end="0500">
+					<value status="0">14.63</value>
+				</period>
+				<period start="0500" end="0530">
+					<value status="0">12.88</value>
+				</period>
+				<period start="0530" end="0600">
+					<value status="0">14.25</value>
+				</period>
+				<period start="0600" end="0630">
+					<value status="0">14.50</value>
+				</period>
+				<period start="0630" end="0700">
+					<value status="0">14.63</value>
+				</period>
+				<period start="0700" end="0730">
+					<value status="0">14.50</value>
+				</period>
+				<period start="0730" end="0800">
+					<value status="0">14.50</value>
+				</period>
+				<period start="0800" end="0830">
+					<value status="0">14.63</value>
+				</period>
+				<period start="0830" end="0900">
+					<value status="0">32.00</value>
+				</period>
+				<period start="0900" end="0930">
+					<value status="0">32.00</value>
+				</period>
+				<period start="0930" end="1000">
+					<value status="0">32.50</value>
+				</period>
+				<period start="1000" end="1030">
+					<value status="0">33.38</value>
+				</period>
+				<period start="1030" end="1100">
+					<value status="0">33.13</value>
+				</period>
+				<period start="1100" end="1130">
+					<value status="0">33.13</value>
+				</period>
+				<period start="1130" end="1200">
+					<value status="0">33.13</value>
+				</period>
+				<period start="1200" end="1230">
+					<value status="0">33.38</value>
+				</period>
+				<period start="1230" end="1300">
+					<value status="0">33.63</value>
+				</period>
+				<period start="1300" end="1330">
+					<value status="0">32.63</value>
+				</period>
+				<period start="1330" end="1400">
+					<value status="0">32.88</value>
+				</period>
+				<period start="1400" end="1430">
+					<value status="0">33.75</value>
+				</period>
+				<period start="1430" end="1500">
+					<value status="0">33.50</value>
+				</period>
+				<period start="1500" end="1530">
+					<value status="0">33.88</value>
+				</period>
+				<period start="1530" end="1600">
+					<value status="0">33.75</value>
+				</period>
+				<period start="1600" end="1630">
+					<value status="0">33.88</value>
+				</period>
+				<period start="1630" end="1700">
+					<value status="0">33.75</value>
+				</period>
+				<period start="1700" end="1730">
+					<value status="0">34.00</value>
+				</period>
+				<period start="1730" end="1800">
+					<value status="0">33.88</value>
+				</period>
+				<period start="1800" end="1830">
+					<value status="0">34.00</value>
+				</period>
+				<period start="1830" end="1900">
+					<value status="0">34.00</value>
+				</period>
+				<period start="1900" end="1930">
+					<value status="0">33.75</value>
+				</period>
+				<period start="1930" end="2000">
+					<value status="0">33.88</value>
+				</period>
+				<period start="2000" end="2030">
+					<value status="0">34.00</value>
+				</period>
+				<period start="2030" end="2100">
+					<value status="0">34.00</value>
+				</period>
+				<period start="2100" end="2130">
+					<value status="0">33.88</value>
+				</period>
+				<period start="2130" end="2200">
+					<value status="0">34.00</value>
+				</period>
+				<period start="2200" end="2230">
+					<value status="0">34.13</value>
+				</period>
+				<period start="2230" end="2300">
+					<value status="0">34.00</value>
+				</period>
+				<period start="2300" end="2330">
+					<value status="0">34.25</value>
+				</period>
+				<period start="2330" end="0000">
+					<value status="0">34.38</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+	</area>
+</message>
