@@ -1,0 +1,7 @@
+[submodule "tensorflow-yolov4-tflite"]
+	path = tensorflow-yolov4-tflite
+	url = https://github.com/akumidv/tensorflow-yolov4-tflite
+	
+[submodule "simple-track"]
+	path = simple-track
+	url = https://github.com/akumidv/SimpleTrackSample
