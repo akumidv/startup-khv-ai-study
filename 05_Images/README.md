@@ -2,9 +2,13 @@
 conda env create -f environment.yml
 
 ## Классификация без детекции - cats vs dogs
+Переходим в папку cats-vs-dogs
+
 Скачиваем датасет https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip
 
 Распаковываем в текущей дирректории папку `PetImages` и её содержимое
+
+Далее запускаем ноутбук
 
 
 ## Разметка датасета labelme
@@ -14,9 +18,6 @@ conda install labelme -c conda-forge
 ```
 
 Запуск `labelme`
-
-
-## Детекция касок с разметкой
 
 
 ## YOLO-4 на tensorflow
@@ -80,20 +81,5 @@ python Demo_Tracking.py --video 1 --version 4
 Вебкамера 1 и YOLO4
 ```
 python Demo_Tracking.py --video 1 --version 4 --type full
-```
-
-
-# Human Pose Estimation
-Источник https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
-
-В папаке `human-pose`
-
-Установка Pytorch https://pytorch.org/
-```
-conda install pytorch torchvision torchaudio cpuonly -c pytorch
-```
-Переходим в папку `lib` и выполняем в ней
-```
-make
 ```
 
