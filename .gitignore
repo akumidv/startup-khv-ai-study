@@ -1,8 +1,10 @@
 # Editors
 .vscode/
 .idea/
-.envs
+.envs/
 .tmp
+.env/
+
 
 ##JS
 node_modules/
@@ -22,3 +24,8 @@ pip-delete-this-directory.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
+05_Images/cats-vs-dogs/models/
+05_Images/cats-vs-dogs/testing/
+05_Images/cats-vs-dogs/training
+/**/*.weights
+*.mp4
