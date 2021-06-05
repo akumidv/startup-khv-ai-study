@@ -1,0 +1,295 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "check bot",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StartOverIntent",
+                    "samples": []
+                },
+                {
+                    "name": "PositiveFeeling",
+                    "slots": [],
+                    "samples": [
+                        "I feel good",
+                        "I feel ok",
+                        "I feel great",
+                        "I feel alright",
+                        "I feel awesome",
+                        "awesome",
+                        "I'm doing alright",
+                        "I'm just chillin",
+                        "Pretty good",
+                        "pretty dang good",
+                        "I'm on top of the world",
+                        "ok",
+                        "fine",
+                        "great",
+                        "okay",
+                        "not bad"
+                    ]
+                },
+                {
+                    "name": "NegativeFeeling",
+                    "slots": [],
+                    "samples": [
+                        "I feel bad",
+                        "I feel down",
+                        "feel like shit",
+                        "bad",
+                        "crappy",
+                        "shitty",
+                        "I've felt better",
+                        "I've had better days",
+                        "I feel awful",
+                        "I feel terrible",
+                        "terrible",
+                        "really bad",
+                        "really down",
+                        "pretty bad",
+                        "kinda bad",
+                        "kinda down",
+                        "pretty bad"
+                    ]
+                },
+                {
+                    "name": "BedYes",
+                    "slots": [],
+                    "samples": [
+                        "Yes I got out of bed",
+                        "I've gotten out of bed today",
+                        "I'm out of bed",
+                        "I got up",
+                        "I'm up"
+                    ]
+                },
+                {
+                    "name": "BedNo",
+                    "slots": [],
+                    "samples": [
+                        "I haven't got up yet",
+                        "I haven't gotten up yet",
+                        "I'm still in bed",
+                        "I just woke up",
+                        "it's too hard",
+                        "I don't want to get out of bed",
+                        "I'm laying in bed"
+                    ]
+                },
+                {
+                    "name": "AteYes",
+                    "slots": [],
+                    "samples": [
+                        "I ate today",
+                        "I had breakfast",
+                        "I had lunch",
+                        "I had dinner",
+                        "I had brunch",
+                        "I ate something today",
+                        "I have eaten",
+                        "I ate"
+                    ]
+                },
+                {
+                    "name": "AteNo",
+                    "slots": [],
+                    "samples": [
+                        "I haven't eaten",
+                        "I wasn't hungry",
+                        "I don't want to eat",
+                        "Food doesn't sound good",
+                        "I aint ate nothing",
+                        "I tried",
+                        "I'm not hungry"
+                    ]
+                },
+                {
+                    "name": "ShowerYes",
+                    "slots": [],
+                    "samples": [
+                        "I took a shower",
+                        "I showered",
+                        "I showered last night",
+                        "I took a shower before bed",
+                        "I took a shower last night",
+                        "I took a bath",
+                        "I bathed",
+                        "I took a hot shower"
+                    ]
+                },
+                {
+                    "name": "ShowerNo",
+                    "slots": [],
+                    "samples": [
+                        "I have not showered",
+                        "I have not taken a shower",
+                        "I I haven't showered",
+                        "I haven't taken a shower",
+                        "I haven't took a shower",
+                        "I don't want to"
+                    ]
+                },
+                {
+                    "name": "DressedYes",
+                    "slots": [],
+                    "samples": [
+                        "I'm dressed",
+                        "I got dressed",
+                        "I put some clothes on",
+                        "I changed earlier",
+                        "I changed",
+                        "I threw on some clothes",
+                        "I have gotten dressed",
+                        "I put on clothes"
+                    ]
+                },
+                {
+                    "name": "OutsideYes",
+                    "slots": [],
+                    "samples": [
+                        "I have been outside",
+                        "I went outside earlier",
+                        "I went outside",
+                        "I've been outside",
+                        "I went out",
+                        "I was out for a minute",
+                        "I was out",
+                        "I went for a walk",
+                        "I went for a bike ride",
+                        "I walked my dog"
+                    ]
+                },
+                {
+                    "name": "StartReport",
+                    "slots": [],
+                    "samples": [
+                        "can you send a report for me",
+                        "send report",
+                        "send a report",
+                        "send my daily report",
+                        "can you send someone a report of my mood today",
+                        "can you send the report",
+                        "report"
+                    ]
+                },
+                {
+                    "name": "OutsideNo",
+                    "slots": [],
+                    "samples": [
+                        "I have not been outside",
+                        "I haven't gone outside",
+                        "I have not gone outside",
+                        "I haven't been out",
+                        "I'm still inside",
+                        "I ain't gone out",
+                        "I have not been out"
+                    ]
+                },
+                {
+                    "name": "SuggestIdea",
+                    "slots": [],
+                    "samples": [
+                        "give me ideas",
+                        "how can I improve my mood",
+                        "what should I do",
+                        "any idea what to do",
+                        "help me improve my mood",
+                        "tell me ways to feel better",
+                        "tell me a way to cheer up",
+                        "give me ideas on how to cheer up",
+                        "suggest things I could do to feel better",
+                        "help me feel better",
+                        "I want to feel better",
+                        "tell me how to improve my mood",
+                        "improve my mood",
+                        "give me ideas to improve my mood"
+                    ]
+                },
+                {
+                    "name": "HotLine",
+                    "slots": [],
+                    "samples": [
+                       "I'm going to kill myself",
+                        "I'm going to end it",
+                        "I don't feel like living",
+                        "I don't want to be alive anymore",
+                        "I want to kill myself",
+                        "I want to die",
+                        "Kill me",
+                        "I'm going to jump off of a bridge",
+                        "I'm going to jump off a bridge",
+                        "I'm going to die",
+                        "I'm going to take a bunch of pills",
+                        "I am going to commit suicide",
+                        "I want to commit suicide",
+                        "I'm going to jump",
+                        "I'm going to kill myself and others",
+                        "I want to kill everyone"
+                    ]
+                },
+                {
+                    "name": "FindTherapist",
+                    "slots": [],
+                    "samples": [
+                        "help me find a therapist",
+                        "I would like therapy",
+                        "can you find me a therapist",
+                        "can you find me a psychologist",
+                        "can you find me a counselor",
+                        "help me find a therapist",
+                        "help me find a counselor",
+                        "help me find a psychologist",
+                        "please find me a therapist",
+                        "please find me a counselor",
+                        "please find me a psychologist",
+                        "locate a therapist",
+                        "locate therapy"
+                    ]
+                },
+                {
+                    "name": "Name",
+                    "slots": [
+                        {
+                            "name": "person_name",
+                            "type": "AMAZON.Person"
+                        }
+                    ],
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
