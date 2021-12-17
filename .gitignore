@@ -4,7 +4,7 @@
 .envs/
 .tmp
 .env/
-
+.venv/
 
 ##JS
 node_modules/
@@ -29,3 +29,4 @@ pip-delete-this-directory.txt
 05_Images/cats-vs-dogs/training
 /**/*.weights
 *.mp4
+

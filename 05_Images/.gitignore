@@ -1,4 +1,6 @@
 .env/
 .ipynb_checkpoints/
 
-
+*.weights
+/simple-track/yolov4.weights
+/simple-track/yolov4-tiny.weights

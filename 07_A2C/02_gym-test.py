@@ -16,7 +16,6 @@
 import gym
 import random
 
-
 env = gym.make('Pong-v0', render_mode='human')  # Pong-v0, CarRacing-v0, 'Assault-v0')#'Alien-v0')#'AirRaid-v0')
 observation = env.reset()
 UP_ACTION = 2

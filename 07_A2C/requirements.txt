@@ -1,13 +1,18 @@
-hyperopt
+#hyperopt
 matplotlib
 numpy
 pandas
-scikit-learn
+plotly
+#scikit-learn
 tensorflow
 
+opencv-python
+
 gym
-git+https://github.com/Kojoley/atari-py.git # ToyText
+#git+https://github.com/Kojoley/atari-py.git # ToyText
 box2d box2d-kengz # + swing для Atari environments
 gym[atari] # Atari
 gym[accept-rom-license]
 gym[box2d]
+
+ta-lib
